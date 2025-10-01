@@ -106,6 +106,16 @@ def clean_team_name(raw: str):
     t = re.sub(r'\s*\(\s*\)\s*', '', t)
     return t.strip()
 
+def fix_year(year):
+    """يحول أي سنة أكبر من 2030 إلى السنة - 100"""
+    try:
+        y = int(year)
+        if y > 2030:
+            y -= 100
+        return str(y)
+    except Exception:
+        return str(year)
+
 class PlayerCombinedSpider(scrapy.Spider):
     name = "player_combined_full"
     allowed_domains = ["transfermarkt.com", "en.wikipedia.org", "ar.wikipedia.org"]
@@ -192,6 +202,7 @@ class PlayerCombinedSpider(scrapy.Spider):
             "positions": positions,
             "nationality": nationality,
             "retired": retired,
+            "age": None,
             "goals": "-",
             "assists": "-",
             "trophies": [],
@@ -267,16 +278,24 @@ class PlayerCombinedSpider(scrapy.Spider):
                         year_text = row.css("td.erfolg_table_saison::text").get()
                         if year_text:
                             year = year_text.strip()
+                            # لو السنة فيها "/"
                             if "/" in year:
                                 try:
                                     partsy = year.split("/")
-                                    year_conv = "20" + partsy[1][-2:]
-                                    years.append(int(year_conv))
+                                    # غالبا Transfermarkt بيكتب الموسم زي 61/62 أو 1998/99
+                                    # فاحنا هنا ناخد الجزء التاني من السنة
+                                    if len(partsy[1]) == 2:
+                                        year_conv = "19" + partsy[1] if int(partsy[1]) > 30 else "20" + partsy[1]
+                                    else:
+                                        year_conv = partsy[1]
+                                    year_fixed = int(fix_year(year_conv))
+                                    years.append(year_fixed)
                                 except Exception:
                                     pass
                             else:
                                 try:
-                                    years.append(int(year))
+                                    year_fixed = int(fix_year(year))
+                                    years.append(year_fixed)
                                 except Exception:
                                     pass
                     trophies.append({"tournament": trophy_name, "years": years})
@@ -310,6 +329,61 @@ class PlayerCombinedSpider(scrapy.Spider):
     def parse_wikipedia(self, response):
         item = response.meta["item"]
         wikipedia_ar_url = response.meta.get("wikipedia_ar_url")
+
+        # استخراج العمر من تاريخ الميلاد
+        age = None
+        birth_date = None
+        try:
+            # ابحث عن span.bday
+            bday = response.css('span.bday::text').get()
+            if bday:
+                birth_date = bday
+            else:
+                # ابحث عن وسم time في سطر الميلاد
+                infobox = response.css("table.infobox")
+                birth_time = infobox.css('tr:contains("Born") time::attr(datetime)').get()
+                if birth_time:
+                    birth_date = birth_time.strip()
+                else:
+                    # ابحث عن نص الميلاد
+                    birth_row = infobox.xpath('.//tr[th[contains(text(),"Born")]]/td').xpath('string(.)').get()
+                    if birth_row:
+                        # صيغة 13 May 1983 أو 13.05.1983 أو 1983
+                        m = re.search(r'(\d{4})-(\d{2})-(\d{2})', birth_row)
+                        if m:
+                            birth_date = m.group(0)
+                        else:
+                            m = re.search(r'(\d{1,2})[.\s/-](\w+)[.\s/-](\d{4})', birth_row)
+                            if m:
+                                day, month, year = m.groups()
+                                month_num = MONTHS_FULL.get(month.lower(), MONTHS_ABBR.get(month.lower()[:3], month))
+                                birth_date = f"{int(year):04d}-{int(month_num):02d}-{int(day):02d}"
+                            else:
+                                m = re.search(r'(\d{4})', birth_row)
+                                if m:
+                                    birth_date = m.group(1)
+            # حساب العمر
+            if birth_date:
+                today = datetime.utcnow()
+                try:
+                    if '-' in birth_date:
+                        parts = birth_date.split('-')
+                        year = int(parts[0])
+                        month = int(parts[1]) if len(parts) > 1 else 1
+                        day = int(parts[2]) if len(parts) > 2 else 1
+                    else:
+                        year = int(birth_date)
+                        month, day = 1, 1
+                    age = today.year - year - ((today.month, today.day) < (month, day))
+                    item["age"] = age
+                except Exception:
+                    item["age"] = None
+            else:
+                item["age"] = None
+        except Exception:
+            item["age"] = None
+
+        # الصورة
         try:
             infobox = response.css("table.infobox")
             image_url = infobox.css("td.infobox-image img::attr(src)").get()
@@ -322,6 +396,7 @@ class PlayerCombinedSpider(scrapy.Spider):
         except Exception:
             pass
 
+        # الكارير
         career = []
         try:
             infobox = response.css("table.infobox")
@@ -412,7 +487,31 @@ class PlayerCombinedSpider(scrapy.Spider):
             pass
         item["career"] = career
 
-        # طلب ويكيبيديا العربية إذا وُجد الرابط
+        # التأكد من retired لو فيه سنة أقل من 1990 في career أو trophies
+        retired = item.get("retired", False)
+        min_year = 3000
+        for entry in item.get("career", []):
+            years = entry.get("years", "")
+            found_years = re.findall(r'\d{4}', years)
+            for y in found_years:
+                try:
+                    y_int = int(y)
+                    if y_int < min_year:
+                        min_year = y_int
+                except Exception:
+                    pass
+        for trophy in item.get("trophies", []):
+            for y in trophy.get("years", []):
+                try:
+                    y_int = int(y)
+                    if y_int < min_year:
+                        min_year = y_int
+                except Exception:
+                    pass
+        if min_year < 1990:
+            item["retired"] = True
+
+        # ويكيبيديا عربي
         if wikipedia_ar_url:
             yield scrapy.Request(
                 wikipedia_ar_url,
