@@ -1,0 +1,19 @@
+Content-Type: text/html; charset=UTF-8
+Server: nginx
+Date: Fri, 05 Sep 2025 21:39:53 GMT
+Access-Control-Allow-Origin: *
+X-Cache-Status: MISS
+X-Host: prod-tm-web-server-12117
+X-User: 0
+X-Last-Modified: Fri, 05 Sep 2025 21:39:53 GMT
+Cache-Control: public, max-age=600, must-revalidate, stale-while-revalidate=30, stale-if-error=300
+Last-Modified: Wed, 06 Aug 2025 22:00:00 GMT
+X-Frame-Options: DENY
+Content-Encoding: gzip
+Permissions-Policy: interest-cohort=()
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 f6ea3e4fb85b328db4c583aea8f8284a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: CAI50-P3
+X-Amz-Cf-Id: VjAkxImU4KLUKmoYbLYVgf8L78Ce8j5qC_Gi7PozMn7vTfjE67sv_Q==
+Age: 563

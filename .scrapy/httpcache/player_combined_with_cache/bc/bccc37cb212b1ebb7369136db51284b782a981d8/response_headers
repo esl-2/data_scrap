@@ -1,0 +1,18 @@
+Content-Type: text/html; charset=UTF-8
+Server: nginx
+Date: Fri, 05 Sep 2025 21:39:53 GMT
+Access-Control-Allow-Origin: *
+X-Cache-Status: MISS
+X-Host: prod-tm-web-server-12117
+X-User: 0
+X-Last-Modified: Fri, 05 Sep 2025 21:39:53 GMT
+Cache-Control: public, max-age=600, must-revalidate, stale-while-revalidate=30, stale-if-error=300
+Last-Modified: Wed, 06 Aug 2025 22:00:00 GMT
+X-Frame-Options: DENY
+Content-Encoding: gzip
+Permissions-Policy: interest-cohort=()
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 513087f9e2f460f167ade4efef27aecc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: CAI50-P3
+X-Amz-Cf-Id: giLuOIEmhczOfZ5moEDNTaEZ3BYNUYAs6enhjmzbLuSOa7ztcEssrw==

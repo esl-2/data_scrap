@@ -1,0 +1,23 @@
+Content-Length: 114094
+Date: Fri, 05 Sep 2025 19:07:23 GMT
+Server: mw-web.eqiad.main-78d7699556-n9lbz
+X-Content-Type-Options: nosniff
+Content-Language: en
+Accept-Ch: 
+Last-Modified: Fri, 05 Sep 2025 19:02:53 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip
+Age: 9493
+Accept-Ranges: bytes
+Vary: Accept-Encoding,X-Subdomain,Cookie,Authorization
+X-Cache: cp6016 hit, cp6009 hit/4
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front", host;desc="cp6009"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+Report-To: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+Nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+Set-Cookie: WMF-DP=06a,bc5;Path=/;HttpOnly;secure;Expires=Sat, 06 Sep 2025 00:00:00 GMT
+Set-Cookie: WMF-Uniq=yC5K3bHqxS9PtWtsafVe-QJlAAEBAFvd_hj1tYlyogc0AHRxWUxznI-XN1BMdMx2;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sat, 05 Sep 2026 00:00:00 GMT
+X-Client-Ip: 197.59.239.14
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate, no-transform
+X-Analytics: 
