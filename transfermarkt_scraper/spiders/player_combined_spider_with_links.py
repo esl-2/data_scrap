@@ -142,7 +142,7 @@ class PlayerCombinedSpider(scrapy.Spider):
             self.logger.error(f"خطأ في قراءة {self.LINKS_FILE}: {e}")
             return
 
-        for idx, pair in enumerate(pairs, start=262):
+        for idx, pair in enumerate(pairs, start=1):
             tm = pair.get("transfermarkt") or pair.get("transfermarkt_url")
             wk = pair.get("wikipedia") or pair.get("wikipedia_url")
             wk_ar = pair.get("wikipedia_ar") or pair.get("wikipedia_ar_url")
@@ -328,7 +328,7 @@ class PlayerCombinedSpider(scrapy.Spider):
 
     def parse_wikipedia(self, response):
         item = response.meta["item"]
-        wikipedia_ar_url = response.meta.get("wikipedia_ar_url")
+        wikipedia_ar_name = response.meta.get("wikipedia_ar_url")
 
         # استخراج العمر من تاريخ الميلاد
         age = None
@@ -512,28 +512,9 @@ class PlayerCombinedSpider(scrapy.Spider):
             item["retired"] = True
 
         # ويكيبيديا عربي
-        if wikipedia_ar_url:
-            yield scrapy.Request(
-                wikipedia_ar_url,
-                callback=self.parse_wikipedia_ar,
-                meta={"item": item}
-            )
-        else:
-            yield item
-
-    def parse_wikipedia_ar(self, response):
-        item = response.meta["item"]
-        try:
-            name_ar = response.css("h1#firstHeading::text").get()
-            if name_ar:
-                item["name_ar"] = name_ar.strip()
-            else:
-                title = response.css("title::text").get()
-                if title:
-                    name_ar = title.split("-")[0].strip()
-                    item["name_ar"] = name_ar
-        except Exception:
-            pass
+        wikipedia_ar_name = response.meta.get("wikipedia_ar_url")
+        if wikipedia_ar_name:
+            item["name_ar"] = wikipedia_ar_name.strip()
         yield item
 
 # تشغيل العنكبوت:

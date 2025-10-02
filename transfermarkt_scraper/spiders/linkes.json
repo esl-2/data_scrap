@@ -1,1162 +1,1348 @@
 [
-    {
-    "transfermarkt": "https://www.transfermarkt.com/cesc-fabregas/profil/spieler/8806",
-    "wikipedia": "https://en.wikipedia.org/wiki/Cesc_F%C3%A0bregas",
-    "wikipedia_ar": ""
+  
+  {
+    "transfermarkt": "https://www.transfermarkt.com/giacomo-bulgarelli/profil/spieler/235929",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giacomo_Bulgarelli",
+    "wikipedia_ar": "جاكومو بولغاريلي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/robin-van-persie/profil/spieler/4380",
-    "wikipedia": "https://en.wikipedia.org/wiki/Robin_van_Persie",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/romano-fogli/profil/spieler/235932",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romano_Fogli",
+    "wikipedia_ar": "رومانو فوليي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/dimitar-berbatov/profil/spieler/65",
-    "wikipedia": "https://en.wikipedia.org/wiki/Dimitar_Berbatov",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/giancarlo-de-sisti/profil/spieler/216033",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giancarlo_De_Sisti",
+    "wikipedia_ar": "جانكارلو دي سيستي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/xabi-alonso/profil/spieler/7476",
-    "wikipedia": "https://en.wikipedia.org/wiki/Xabi_Alonso",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/giovanni-lodetti/profil/spieler/216032",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Lodetti",
+    "wikipedia_ar": "جيوفاني لوديتي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/fernando-torres/profil/spieler/7767",
-    "wikipedia": "https://en.wikipedia.org/wiki/Fernando_Torres",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/nils-liedholm/profil/spieler/174158",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nils_Liedholm",
+    "wikipedia_ar": "نيلس ليدهولم"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/gunnar-gren/profil/spieler/246924",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gunnar_Gren",
+    "wikipedia_ar": "غونار غرين"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/juan-schiaffino/profil/spieler/137459",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juan_Alberto_Schiaffino",
+    "wikipedia_ar": "خوان ألبرتو سيكافينو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/alcides-ghiggia/profil/spieler/132494",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alcides_Ghiggia",
+    "wikipedia_ar": "أليسيدس غيغيا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/ezio-pascutti/profil/spieler/235941",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezio_Pascutti",
+    "wikipedia_ar": "إزيو باسكوتي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/giorgio-ferrini/profil/spieler/215895",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giorgio_Ferrini",
+    "wikipedia_ar": "جورجو فيريني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/rino-marchesi/profil/spieler/251094",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rino_Marchesi",
+    "wikipedia_ar": "رينو ماركيسي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/saul-malatrasi/profil/spieler/244806",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saul_Malatrasi",
+    "wikipedia_ar": "ساول مالاتراسي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/valentino-mazzola/profil/spieler/291722",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valentino_Mazzola",
+    "wikipedia_ar": "فالانتينو مازولا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/zvonimir-boban/profil/spieler/89545",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zvonimir_Boban",
+    "wikipedia_ar": "زفونيمير بوبان"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/giuseppe-meazza/profil/spieler/183779",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Meazza",
+    "wikipedia_ar": "جوزيبي مياتسا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/silvio-piola/profil/spieler/177829",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silvio_Piola",
+    "wikipedia_ar": "سيلفيو بيولا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/gunnar-nordahl/profil/spieler/140644",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gunnar_Nordahl",
+    "wikipedia_ar": "غونار نوردال"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/kurt-hamrin/profil/spieler/182033",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Hamrin",
+    "wikipedia_ar": "كورت هامرين"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/omar-sivori/profil/spieler/50816",
+    "wikipedia": "https://en.wikipedia.org/wiki/Omar_S%C3%ADvori",
+    "wikipedia_ar": "عمر سيفوري"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/john-charles/profil/spieler/140749",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Charles",
+    "wikipedia_ar": "جون تشارلز"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/jose-altafini/profil/spieler/31571",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Altafini",
+    "wikipedia_ar": "جوزيه ألتافيني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/luigi-riva/profil/spieler/145348",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gigi_Riva",
+    "wikipedia_ar": "لويجي ريفا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/angelo-domenghini/profil/spieler/215894",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angelo_Domenghini",
+    "wikipedia_ar": "انجلو دومنجينى"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/roberto-boninsegna/profil/spieler/145375",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Boninsegna",
+    "wikipedia_ar": "روبيرتو بونينسيغنا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/pierino-prati/profil/spieler/145524",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierino_Prati",
+    "wikipedia_ar": "بييرينو براتي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/giampiero-boniperti/profil/spieler/247858",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giampiero_Boniperti",
+    "wikipedia_ar": "جامبييرو بونيبيرتي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/john-hansen/profil/spieler/123647",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hansen_(footballer,_born_1924)",
+    "wikipedia_ar": "جون هانسن"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/pietro-anastasi/profil/spieler/145374",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pietro_Anastasi",
+    "wikipedia_ar": "بييترو أناستازي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/angelo-sormani/profil/spieler/237722",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angelo_Sormani",
+    "wikipedia_ar": "أنجليو سورماني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/aurelio-milani/profil/spieler/126010",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aurelio_Milani",
+    "wikipedia_ar": "أوريليو ميلاني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/frank-rijkaard/profil/spieler/70667",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Rijkaard",
+    "wikipedia_ar": "فرانك رايكارد"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/sergio-brighenti/profil/spieler/152474",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergio_Brighenti",
+    "wikipedia_ar": "سيرجيو بريغينتي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/bruno-mora/profil/spieler/293580",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruno_Mora",
+    "wikipedia_ar": "برونو مورا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/harald-nielsen/profil/spieler/146173",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harald_Nielsen",
+    "wikipedia_ar": "هارالد نيلسن"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/antonio-angelillo/profil/spieler/89669",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Angelillo",
+    "wikipedia_ar": "أنطونيو فالنتين أنجليلو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/gerry-hitchens/profil/spieler/237698",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerry_Hitchens",
+    "wikipedia_ar": "جيري هيتشنز"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/istvan-nyers/profil/spieler/138678",
+    "wikipedia": "https://en.wikipedia.org/wiki/Istv%C3%A1n_Nyers",
+    "wikipedia_ar": "إيستفان نيرس"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/ruud-gullit/profil/spieler/101045",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruud_Gullit",
+    "wikipedia_ar": "رود خوليت"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/bror-mellberg/profil/spieler/246961",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bror_Mellberg",
+    "wikipedia_ar": "برور ميلبيرغ"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/lennart-skoglund/profil/spieler/246990",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lennart_Skoglund",
+    "wikipedia_ar": "لينارت سكوغلاند"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/riccardo-carapellese/profil/spieler/249227",
+    "wikipedia": "https://en.wikipedia.org/wiki/Riccardo_Carapellese",
+    "wikipedia_ar": "ريكاردو كارابيليزي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/julio-abbadie/profil/spieler/137450",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julio_Abbadie",
+    "wikipedia_ar": "خوليو أبادي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/humberto-rosa/profil/spieler/305668",
+    "wikipedia": "https://en.wikipedia.org/wiki/Humberto_Rosa_(footballer)",
+    "wikipedia_ar": "هومبيرتو روزا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/sebastiano-rossi/profil/spieler/106923",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sebastiano_Rossi",
+    "wikipedia_ar": "سيباستيانو روسي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/gianluca-pagliuca/profil/spieler/5985",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gianluca_Pagliuca",
+    "wikipedia_ar": "جانلوكا باليوكا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/walter-zenga/profil/spieler/116754",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Zenga",
+    "wikipedia_ar": "والتر زينغا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/angelo-peruzzi/profil/spieler/5826",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angelo_Peruzzi",
+    "wikipedia_ar": "أنجلو بيروتزي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/stefano-tacconi/profil/spieler/118257",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stefano_Tacconi",
+    "wikipedia_ar": "ستيفانو تاكوني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/giovanni-galli/profil/spieler/116706",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Galli",
+    "wikipedia_ar": "جوفاني غالي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/luca-marchegiani/profil/spieler/5827",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luca_Marchegiani",
+    "wikipedia_ar": "لوكا ماركجياني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/francesco-toldo/profil/spieler/5769",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Toldo",
+    "wikipedia_ar": "فرانشيسكو تولدو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/gianluigi-buffon/profil/spieler/5023",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gianluigi_Buffon",
+    "wikipedia_ar": "جانلويجي بوفون"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/ivano-bordon/profil/spieler/215581",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivano_Bordon",
+    "wikipedia_ar": "إيفانو بوردون"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/franco-baresi/profil/spieler/42049",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franco_Baresi",
+    "wikipedia_ar": "فرانكو باريزي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/paolo-maldini/profil/spieler/5803",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paolo_Maldini",
+    "wikipedia_ar": "باولو مالديني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/alessandro-costacurta/profil/spieler/10055",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessandro_Costacurta",
+    "wikipedia_ar": "ألساندرو كوستاكورتا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/mauro-tassotti/profil/spieler/102483",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mauro_Tassotti",
+    "wikipedia_ar": "ماورو تاسوتي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/giuseppe-bergomi/profil/spieler/107860",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Bergomi",
+    "wikipedia_ar": "جوزيبي بيرغومي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/riccardo-ferri/profil/spieler/118251",
+    "wikipedia": "https://en.wikipedia.org/wiki/Riccardo_Ferri",
+    "wikipedia_ar": "ريكاردو فيري"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/ciro-ferrara/profil/spieler/5749",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ciro_Ferrara",
+    "wikipedia_ar": "تشيرو فيرارا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/pietro-vierchowod/profil/spieler/116750",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pietro_Vierchowod",
+    "wikipedia_ar": "بيترو فييرجوود"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/gaetano-scirea/profil/spieler/116740",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaetano_Scirea",
+    "wikipedia_ar": "غايتانو شيريا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/claudio-gentile/profil/spieler/128893",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Gentile",
+    "wikipedia_ar": "كلاوديو جينتيلي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/antonio-cabrini/profil/spieler/116689",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Cabrini",
+    "wikipedia_ar": "أنتونيو كابريني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/fulvio-collovati/profil/spieler/116697",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fulvio_Collovati",
+    "wikipedia_ar": "فولفيو كولوفاتي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/daniel-passarella/profil/spieler/116735",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Passarella",
+    "wikipedia_ar": "دانييل باساريلا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/aldair/profil/spieler/4151",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aldair",
+    "wikipedia_ar": "ألدايير"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/cafu/profil/spieler/5937",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cafu",
+    "wikipedia_ar": "كافو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/paolo-montero/profil/spieler/5747",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paolo_Montero",
+    "wikipedia_ar": "باولو مونتيرو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/lilian-thuram/profil/spieler/3521",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lilian_Thuram",
+    "wikipedia_ar": "ليليان تورام"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/fabio-cannavaro/profil/spieler/5775",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+    "wikipedia_ar": "فابيو كانافارو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/alessandro-nesta/profil/spieler/4171",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessandro_Nesta",
+    "wikipedia_ar": "أليساندرو نيستا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/sinisa-mihajlovic/profil/spieler/5834",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sini%C5%A1a_Mihajlovi%C4%87",
+    "wikipedia_ar": "سينيشا ميهايلوفيتش"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/giuseppe-wilson/profil/spieler/145370",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Wilson",
+    "wikipedia_ar": "جوسبي ويلسون"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/roberto-rosato/profil/spieler/216034",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Rosato",
+    "wikipedia_ar": "روبيرتو روزاتو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/luigi-apolloni/profil/spieler/102472",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luigi_Apolloni",
+    "wikipedia_ar": "لويجي أبولوني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/michel-platini/profil/spieler/88994",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michel_Platini",
+    "wikipedia_ar": "ميشيل بلاتيني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/zinedine-zidane/profil/spieler/3111",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zinedine_Zidane",
+    "wikipedia_ar": "زين الدين زيدان"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/diego-maradona/profil/spieler/8024",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diego_Maradona",
+    "wikipedia_ar": "دييغو مارادونا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/lothar-matthaus/profil/spieler/1527",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lothar_Matth%C3%A4us",
+    "wikipedia_ar": "لوتار ماتيوس"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/dejan-savicevic/profil/spieler/35894",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dejan_Savi%C4%87evi%C4%87",
+    "wikipedia_ar": "ديان سافيتشيفيتش"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/demetrio-albertini/profil/spieler/3390",
+    "wikipedia": "https://en.wikipedia.org/wiki/Demetrio_Albertini",
+    "wikipedia_ar": "ديميتريو ألبرتيني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/roberto-donadoni/profil/spieler/102474",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Donadoni",
+    "wikipedia_ar": "روبرتو دونادوني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/carlo-ancelotti/profil/spieler/116679",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlo_Ancelotti",
+    "wikipedia_ar": "كارلو أنشيلوتي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/falcao/profil/spieler/117621",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paulo_Roberto_Falc%C3%A3o",
+    "wikipedia_ar": "باولو روبرتو فالكاو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/toninho-cerezo/profil/spieler/134974",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toninho_Cerezo",
+    "wikipedia_ar": "تونينيو سيريسو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/zbigniew-boniek/profil/spieler/117229",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zbigniew_Boniek",
+    "wikipedia_ar": "زبيغنيو بونيك"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/marco-tardelli/profil/spieler/116744",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marco_Tardelli",
+    "wikipedia_ar": "ماركو تارديلي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/romeo-benetti/profil/spieler/135783",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romeo_Benetti",
+    "wikipedia_ar": "روميو بينيتي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/giancarlo-antognoni/profil/spieler/128892",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giancarlo_Antognoni",
+    "wikipedia_ar": "جانكارلو أنتونيوني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/eraldo-pecci/profil/spieler/135789",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eraldo_Pecci",
+    "wikipedia_ar": "إرالدو بيتشي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/gabriele-oriali/profil/spieler/128889",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriele_Oriali",
+    "wikipedia_ar": "غابرييلي أوريالي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/salvatore-bagni/profil/spieler/116682",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salvatore_Bagni",
+    "wikipedia_ar": "سالفاتوري باني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/fernando-de-napoli/profil/spieler/116755",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fernando_De_Napoli",
+    "wikipedia_ar": "فرناندو دي نابولي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/juan-sebastian-veron/profil/spieler/3143",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juan_Sebasti%C3%A1n_Ver%C3%B3n",
+    "wikipedia_ar": "خوان سيباستيان فيرون"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/roberto-mancini/profil/spieler/68204",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Mancini",
+    "wikipedia_ar": "روبرتو مانشيني"
   },
   {
     "transfermarkt": "https://www.transfermarkt.com/gianfranco-zola/profil/spieler/3177",
     "wikipedia": "https://en.wikipedia.org/wiki/Gianfranco_Zola",
-    "wikipedia_ar": ""
+    "wikipedia_ar": "جانفرانكو زولا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/gary-speed/profil/spieler/3459",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Speed",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/nicola-berti/profil/spieler/102473",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicola_Berti",
+    "wikipedia_ar": "نيكولا بيرتي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/david-ginola/profil/spieler/104897",
-    "wikipedia": "https://en.wikipedia.org/wiki/David_Ginola",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/pavel-nedved/profil/spieler/3603",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+    "wikipedia_ar": "بافل نيدفيد"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/ole-gunnar-solskjaer/profil/spieler/3394",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ole_Gunnar_Solskj%C3%A6r",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/edgar-davids/profil/spieler/5758",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Davids",
+    "wikipedia_ar": "إدغار ديفيدز"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/teddy-sheringham/profil/spieler/3392",
-    "wikipedia": "https://en.wikipedia.org/wiki/Teddy_Sheringham",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/didier-deschamps/profil/spieler/75553",
+    "wikipedia": "https://en.wikipedia.org/wiki/Didier_Deschamps",
+    "wikipedia_ar": "ديدييه ديشامب"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/dwight-yorke/profil/spieler/3223",
-    "wikipedia": "https://en.wikipedia.org/wiki/Dwight_Yorke",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/antonio-conte/profil/spieler/5759",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Conte",
+    "wikipedia_ar": "أنطونيو كونتي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/andy-cole/profil/spieler/3238",
-    "wikipedia": "https://en.wikipedia.org/wiki/Andy_Cole",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/angelo-di-livio/profil/spieler/21148",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angelo_Di_Livio",
+    "wikipedia_ar": "أنجيلو دي ليفيو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/sol-campbell/profil/spieler/3198",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sol_Campbell",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/diego-simeone/profil/spieler/5841",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diego_Simeone",
+    "wikipedia_ar": "دييغو سيميوني"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/jamie-carragher/profil/spieler/3597",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jamie_Carragher",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/aron-winter/profil/spieler/4324",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aron_Winter",
+    "wikipedia_ar": "أرون وينتر"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/sami-hyypia/profil/spieler/3470",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sami_Hyypi%C3%A4",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/herbert-prohaska/profil/spieler/78249",
+    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Prohaska",
+    "wikipedia_ar": "هربرت بروهاسكا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/emmanuel-petit/profil/spieler/3166",
-    "wikipedia": "https://en.wikipedia.org/wiki/Emmanuel_Petit",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/hansi-muller/profil/spieler/97158",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hansi_M%C3%BCller",
+    "wikipedia_ar": "هانسي مولر"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/marc-overmars/profil/spieler/3513",
-    "wikipedia": "https://en.wikipedia.org/wiki/Marc_Overmars",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/marco-van-basten/profil/spieler/74471",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marco_van_Basten",
+    "wikipedia_ar": "ماركو فان باستن"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/javier-mascherano/profil/spieler/19981",
-    "wikipedia": "https://en.wikipedia.org/wiki/Javier_Mascherano",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/gabriel-batistuta/profil/spieler/5959",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_Batistuta",
+    "wikipedia_ar": "غابرييل باتيستوتا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/carlos-tevez/profil/spieler/4276",
-    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Tevez",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/ronaldo/profil/spieler/3140",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+    "wikipedia_ar": "رونالدو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/robbie-keane/profil/spieler/3144",
-    "wikipedia": "https://en.wikipedia.org/wiki/Robbie_Keane",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/roberto-baggio/profil/spieler/4153",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Baggio",
+    "wikipedia_ar": "روبرتو باجيو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/ledley-king/profil/spieler/3360",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ledley_King",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/alessandro-del-piero/profil/spieler/4289",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessandro_Del_Piero",
+    "wikipedia_ar": "أليساندرو دل بييرو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/gary-neville/profil/spieler/3403",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Neville",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/george-weah/profil/spieler/8542",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Weah",
+    "wikipedia_ar": "جورج ويا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/patrice-evra/profil/spieler/5285",
-    "wikipedia": "https://en.wikipedia.org/wiki/Patrice_Evra",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/andriy-shevchenko/profil/spieler/3522",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andriy_Shevchenko",
+    "wikipedia_ar": "اندريه شيفتشينكو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/michael-essien/profil/spieler/5588",
-    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Essien",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/hernan-crespo/profil/spieler/3410",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Crespo",
+    "wikipedia_ar": "هرنان كريسبو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/joe-cole/profil/spieler/3876",
-    "wikipedia": "https://en.wikipedia.org/wiki/Joe_Cole",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/christian-vieri/profil/spieler/5797",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Vieri",
+    "wikipedia_ar": "كريستيان فييري"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/arjen-robben/profil/spieler/4360",
-    "wikipedia": "https://en.wikipedia.org/wiki/Arjen_Robben",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/filippo-inzaghi/profil/spieler/5821",
+    "wikipedia": "https://en.wikipedia.org/wiki/Filippo_Inzaghi",
+    "wikipedia_ar": "فيليبو إنزاغي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/edwin-van-der-sar/profil/spieler/3516",
-    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_van_der_Sar",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/simone-inzaghi/profil/spieler/5849",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simone_Inzaghi",
+    "wikipedia_ar": "سيموني إنزاغي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/jermain-defoe/profil/spieler/3875",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jermain_Defoe",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/vincenzo-montella/profil/spieler/5960",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vincenzo_Montella",
+    "wikipedia_ar": "فينتشينزو مونتيلا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/shay-given/profil/spieler/3146",
-    "wikipedia": "https://en.wikipedia.org/wiki/Shay_Given",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/giuseppe-signori/profil/spieler/3526",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Signori",
+    "wikipedia_ar": "جوزيبي سينيوري"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/luka-modric/profil/spieler/27992",
-    "wikipedia": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/gianluca-vialli/profil/spieler/16036",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gianluca_Vialli",
+    "wikipedia_ar": "جانلوكا فيالي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/gareth-bale/profil/spieler/39381",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gareth_Bale",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/paolo-rossi/profil/spieler/116757",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paolo_Rossi",
+    "wikipedia_ar": "باولو روسي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/riyad-mahrez/profil/spieler/171424",
-    "wikipedia": "https://en.wikipedia.org/wiki/Riyad_Mahrez",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/ngolo-kante/profil/spieler/225083",
-    "wikipedia": "https://en.wikipedia.org/wiki/N%27Golo_Kant%C3%A9",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/philippe-coutinho/profil/spieler/80444",
-    "wikipedia": "https://en.wikipedia.org/wiki/Philippe_Coutinho",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/david-beckham/profil/spieler/3139",
-    "wikipedia": "https://en.wikipedia.org/wiki/David_Beckham",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/robert-pires/profil/spieler/3185",
-    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Pires",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/freddie-ljungberg/profil/spieler/3134",
-    "wikipedia": "https://en.wikipedia.org/wiki/Freddie_Ljungberg",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/sadio-mane/profil/spieler/200512",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sadio_Man%C3%A9",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/roberto-firmino/profil/spieler/131789",
-    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Firmino",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/john-arne-riise/profil/spieler/3220",
-    "wikipedia": "https://en.wikipedia.org/wiki/John_Arne_Riise",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/ruud-van-nistelrooy/profil/spieler/3407",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ruud_van_Nistelrooy",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/david-seaman/profil/spieler/3141",
-    "wikipedia": "https://en.wikipedia.org/wiki/David_Seaman",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/marcel-desailly/profil/spieler/3154",
-    "wikipedia": "https://en.wikipedia.org/wiki/Marcel_Desailly",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/jaap-stam/profil/spieler/3557",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jaap_Stam",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/denis-irwin/profil/spieler/4280",
-    "wikipedia": "https://en.wikipedia.org/wiki/Denis_Irwin",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/michael-carrick/profil/spieler/3878",
-    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Carrick",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/gilberto-silva/profil/spieler/3194",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gilberto_Silva",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/jimmy-floyd-hasselbaink/profil/spieler/3175",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Floyd_Hasselbaink",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/mark-viduka/profil/spieler/3242",
-    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Viduka",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/paolo-di-canio/profil/spieler/3699",
-    "wikipedia": "https://en.wikipedia.org/wiki/Paolo_Di_Canio",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/jay-jay-okocha/profil/spieler/3708",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jay-Jay_Okocha",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/karl-heinz-rummenigge/profil/spieler/72343",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge",
+    "wikipedia_ar": "كارل هاينز رومينيغه"
   },
   {
     "transfermarkt": "https://www.transfermarkt.com/jurgen-klinsmann/profil/spieler/16980",
     "wikipedia": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Klinsmann",
-    "wikipedia_ar": ""
+    "wikipedia_ar": "يورغن كلينسمان"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/tim-cahill/profil/spieler/13556",
-    "wikipedia": "https://en.wikipedia.org/wiki/Tim_Cahill",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/rudi-voller/profil/spieler/13775",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudi_V%C3%B6ller",
+    "wikipedia_ar": "رودي فولر"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/les-ferdinand/profil/spieler/3645",
-    "wikipedia": "https://en.wikipedia.org/wiki/Les_Ferdinand",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/careca/profil/spieler/117626",
+    "wikipedia": "https://en.wikipedia.org/wiki/Careca",
+    "wikipedia_ar": "كاريكا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/paul-ince/profil/spieler/3248",
-    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Ince",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/abel-balbo/profil/spieler/102187",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abel_Balbo",
+    "wikipedia_ar": "هابيل بالبو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/nicolas-anelka/profil/spieler/3226",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Anelka",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/oliver-bierhoff/profil/spieler/56",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Bierhoff",
+    "wikipedia_ar": "أوليفر بيرهوف"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/brad-friedel/profil/spieler/3476",
-    "wikipedia": "https://en.wikipedia.org/wiki/Brad_Friedel",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/marcelo-salas/profil/spieler/3415",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcelo_Salas",
+    "wikipedia_ar": "مارسيلو سالاس"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/ricardo-carvalho/profil/spieler/9828",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ricardo_Carvalho",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/enrico-chiesa/profil/spieler/7329",
+    "wikipedia": "https://en.wikipedia.org/wiki/Enrico_Chiesa",
+    "wikipedia_ar": "إنريكو كييزا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/dele-alli/profil/spieler/207929",
-    "wikipedia": "https://en.wikipedia.org/wiki/Dele_Alli",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/salvatore-schillaci/profil/spieler/90513",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salvatore_Schillaci",
+    "wikipedia_ar": "سالفاتوري سكيلاتشي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/emile-heskey/profil/spieler/3142",
-    "wikipedia": "https://en.wikipedia.org/wiki/Emile_Heskey",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/aldo-serena/profil/spieler/116741",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aldo_Serena",
+    "wikipedia_ar": "ألدو سيرينا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/ruben-dias/profil/spieler/258004",
-    "wikipedia": "https://en.wikipedia.org/wiki/R%C3%BAben_Dias",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/paolo-pulici/profil/spieler/135790",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paolo_Pulici",
+    "wikipedia_ar": "باولو بوليتشي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/john-stones/profil/spieler/186590",
-    "wikipedia": "https://en.wikipedia.org/wiki/John_Stones",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/francesco-graziani/profil/spieler/128884",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Graziani",
+    "wikipedia_ar": "فرانشيسكو غراتسياني"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/julian-alvarez/profil/spieler/576024",
-    "wikipedia": "https://en.wikipedia.org/wiki/Juli%C3%A1n_Alvarez",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/ramon-diaz/profil/spieler/112591",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ram%C3%B3n_D%C3%ADaz",
+    "wikipedia_ar": "رامون دياز"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/josko-gvardiol/profil/spieler/475959",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jo%C5%A1ko_Gvardiol",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/pietro-paolo-virdis/profil/spieler/120540",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pietro_Paolo_Virdis",
+    "wikipedia_ar": "بييترو باولو فيرديس"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/gabriel-martinelli/profil/spieler/655488",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_Martinelli",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/roberto-pruzzo/profil/spieler/103033",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Pruzzo",
+    "wikipedia_ar": "روبيرتو بروتسو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/gabriel-jesus/profil/spieler/363205",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_Jesus",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/daniel-bertoni/profil/spieler/135804",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Bertoni",
+    "wikipedia_ar": "دانييل بيرتوني"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/gabriel-magalhaes/profil/spieler/435338",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_Magalh%C3%A3es",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/fabrizio-ravanelli/profil/spieler/4226",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabrizio_Ravanelli",
+    "wikipedia_ar": "فابريزيو رافانيلي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/ben-white/profil/spieler/335721",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ben_White_(footballer)",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/cristian-chivu/profil/spieler/4314",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cristian_Chivu",
+    "wikipedia_ar": "كريستيان كيفو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/kai-havertz/profil/spieler/309400",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kai_Havertz",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/zico/profil/spieler/117619",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zico_(footballer)",
+    "wikipedia_ar": "زيكو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/andrew-robertson/profil/spieler/234803",
-    "wikipedia": "https://en.wikipedia.org/wiki/Andy_Robertson",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/socrates/profil/spieler/117633",
+    "wikipedia": "https://en.wikipedia.org/wiki/S%C3%B3crates",
+    "wikipedia_ar": "سقراطس"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/luis-diaz/profil/spieler/480692",
-    "wikipedia": "https://en.wikipedia.org/wiki/Luis_D%C3%ADaz_(footballer,_born_1997)",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/andreas-brehme/profil/spieler/16056",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Brehme",
+    "wikipedia_ar": "أندرياس بريمه"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/darwin-nunez/profil/spieler/546543",
-    "wikipedia": "https://en.wikipedia.org/wiki/Darwin_N%C3%BA%C3%B1ez",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/jurgen-kohler/profil/spieler/119",
+    "wikipedia": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Kohler",
+    "wikipedia_ar": "يورغن كوهلر"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/diogo-jota/profil/spieler/340950",
-    "wikipedia": "https://en.wikipedia.org/wiki/Diogo_Jota",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/preben-elkjaer-larsen/profil/spieler/96182",
+    "wikipedia": "https://en.wikipedia.org/wiki/Preben_Elkj%C3%A6r",
+    "wikipedia_ar": "بريبن إلكيير لارسن"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/alexis-mac-allister/profil/spieler/534033",
-    "wikipedia": "https://en.wikipedia.org/wiki/Alexis_Mac_Allister",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/hans-peter-briegel/profil/spieler/71378",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hans-Peter_Briegel",
+    "wikipedia_ar": "هانز بيتر بريغل"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/dominik-szoboszlai/profil/spieler/451276",
-    "wikipedia": "https://en.wikipedia.org/wiki/Dominik_Szoboszlai",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/enzo-francescoli/profil/spieler/116072",
+    "wikipedia": "https://en.wikipedia.org/wiki/Enzo_Francescoli",
+    "wikipedia_ar": "إنزو فرانسيسكولي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/ibrahima-konate/profil/spieler/357119",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ibrahima_Konat%C3%A9",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/ruben-sosa/profil/spieler/22455",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rub%C3%A9n_Sosa",
+    "wikipedia_ar": "روبين سوسا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/casemiro/profil/spieler/16306",
-    "wikipedia": "https://en.wikipedia.org/wiki/Casemiro",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/tomas-brolin/profil/spieler/101091",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tomas_Brolin",
+    "wikipedia_ar": "توماس برولين"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/andre-onana/profil/spieler/234509",
-    "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9_Onana",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/glenn-stromberg/profil/spieler/222990",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Str%C3%B6mberg",
+    "wikipedia_ar": "جلين سترومبيرغ"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/alejandro-garnacho/profil/spieler/811779",
-    "wikipedia": "https://en.wikipedia.org/wiki/Alejandro_Garnacho",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/roberto-bettega/profil/spieler/135784",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Bettega",
+    "wikipedia_ar": "روبيرتو بيتيغا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/rasmus-hojlund/profil/spieler/610442",
-    "wikipedia": "https://en.wikipedia.org/wiki/Rasmus_H%C3%B8jlund",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/franco-causio/profil/spieler/128882",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franco_Causio",
+    "wikipedia_ar": "فرانكو كاوزيو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/diogo-dalot/profil/spieler/357147",
-    "wikipedia": "https://en.wikipedia.org/wiki/Diogo_Dalot",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/claudio-sala/profil/spieler/135791",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Sala",
+    "wikipedia_ar": "كلاوديو سالا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/raphael-varane/profil/spieler/164770",
-    "wikipedia": "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Varane",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/renato-zaccarelli/profil/spieler/135793",
+    "wikipedia": "https://en.wikipedia.org/wiki/Renato_Zaccarelli",
+    "wikipedia_ar": "ريناتو زاكاريلي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/enzo-fernandez/profil/spieler/648195",
-    "wikipedia": "https://en.wikipedia.org/wiki/Enzo_Fern%C3%A1ndez",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/daniele-massaro/profil/spieler/102480",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniele_Massaro",
+    "wikipedia_ar": "دانييلي مسارو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/moises-caicedo/profil/spieler/687626",
-    "wikipedia": "https://en.wikipedia.org/wiki/Mois%C3%A9s_Caicedo",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/christian-panucci/profil/spieler/5940",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Panucci",
+    "wikipedia_ar": "كرستيان بانوتشي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/christopher-nkunku/profil/spieler/344381",
-    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Nkunku",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/jair/profil/spieler/224104",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jair_da_Costa",
+    "wikipedia_ar": "جير دا كوستا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/raheem-sterling/profil/spieler/134425",
-    "wikipedia": "https://en.wikipedia.org/wiki/Raheem_Sterling",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/alen-boksic/profil/spieler/3571",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alen_Bok%C5%A1i%C4%87",
+    "wikipedia_ar": "ألين بوكشيتش"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/marcio-amoroso/profil/spieler/1263",
+    "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A1rcio_Amoroso",
+    "wikipedia_ar": "مارسيو أموروسو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/claudio-caniggia/profil/spieler/10367",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Caniggia",
+    "wikipedia_ar": "كلاوديو كانيجيا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/igor-protti/profil/spieler/21235",
+    "wikipedia": "https://en.wikipedia.org/wiki/Igor_Protti",
+    "wikipedia_ar": "ايجور بروتي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/julio-cesar/profil/spieler/22412",
+    "wikipedia": "https://en.wikipedia.org/wiki/J%C3%BAlio_C%C3%A9sar_(football_goalkeeper,_born_1979)",
+    "wikipedia_ar": "جوليو سيزار"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/dida/profil/spieler/5800",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dida_(footballer,_born_1973)",
+    "wikipedia_ar": "نيلسون ديدا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/samir-handanovic/profil/spieler/28021",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samir_Handanovi%C4%87",
+    "wikipedia_ar": "سمير هاندانوفيتش"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/wojciech-szczesny/profil/spieler/44058",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wojciech_Szcz%C4%99sny",
+    "wikipedia_ar": "فويتشيك تشيزني"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/mike-maignan/profil/spieler/182906",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Maignan",
+    "wikipedia_ar": "مايك مانيان"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/morgan-de-sanctis/profil/spieler/5880",
+    "wikipedia": "https://en.wikipedia.org/wiki/Morgan_De_Sanctis",
+    "wikipedia_ar": "مورجان دى سانتيس"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/sebastien-frey/profil/spieler/5854",
+    "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A9bastien_Frey",
+    "wikipedia_ar": "سياستيان فري"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/christian-abbiati/profil/spieler/3507",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Abbiati",
+    "wikipedia_ar": "كريستيان أبياتي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/federico-marchetti/profil/spieler/22318",
+    "wikipedia": "https://en.wikipedia.org/wiki/Federico_Marchetti",
+    "wikipedia_ar": "فيديريكو ماركيتي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/marco-amelia/profil/spieler/16810",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marco_Amelia",
+    "wikipedia_ar": "ماركو أميليا"
   },
   {
     "transfermarkt": "https://www.transfermarkt.com/thiago-silva/profil/spieler/29241",
     "wikipedia": "https://en.wikipedia.org/wiki/Thiago_Silva",
-    "wikipedia_ar": ""
+    "wikipedia_ar": "تياغو سيلفا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/cristian-romero/profil/spieler/355915",
-    "wikipedia": "https://en.wikipedia.org/wiki/Cristian_Romero",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/walter-samuel/profil/spieler/5938",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Samuel",
+    "wikipedia_ar": "والتر صامويل"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/dejan-kulusevski/profil/spieler/431755",
-    "wikipedia": "https://en.wikipedia.org/wiki/Dejan_Kulusevski",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/andrea-barzagli/profil/spieler/7109",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrea_Barzagli",
+    "wikipedia_ar": "أندريا بارزالي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/richarlison/profil/spieler/378710",
-    "wikipedia": "https://en.wikipedia.org/wiki/Richarlison",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/giorgio-chiellini/profil/spieler/29260",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giorgio_Chiellini",
+    "wikipedia_ar": "جورجيو كيلليني"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/guglielmo-vicario/profil/spieler/286047",
-    "wikipedia": "https://en.wikipedia.org/wiki/Guglielmo_Vicario",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/leonardo-bonucci/profil/spieler/39983",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonardo_Bonucci",
+    "wikipedia_ar": "ليوناردو بونوتشي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/kieran-trippier/profil/spieler/95810",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kieran_Trippier",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/ivan-cordoba/profil/spieler/5772",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iv%C3%A1n_C%C3%B3rdoba",
+    "wikipedia_ar": "إيفان كوردوبا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/sven-botman/profil/spieler/361093",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sven_Botman",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/javier-zanetti/profil/spieler/1161",
+    "wikipedia": "https://en.wikipedia.org/wiki/Javier_Zanetti",
+    "wikipedia_ar": "خافيير زانيتي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/anthony-gordon/profil/spieler/503733",
-    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Gordon_(footballer)",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/maicon/profil/spieler/18301",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maicon_(footballer,_born_1981)",
+    "wikipedia_ar": "مايكون"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/thiago-alcantara/profil/spieler/60444",
-    "wikipedia": "https://en.wikipedia.org/wiki/Thiago_Alc%C3%A2ntara",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/kakhaber-kaladze/profil/spieler/3430",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kakha_Kaladze",
+    "wikipedia_ar": "كاخا كالادزه"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/emiliano-martinez/profil/spieler/111873",
-    "wikipedia": "https://en.wikipedia.org/wiki/Emiliano_Mart%C3%ADnez",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/philippe-mexes/profil/spieler/5422",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippe_Mex%C3%A8s",
+    "wikipedia_ar": "فيليب مكسيس"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/moussa-diaby/profil/spieler/395516",
-    "wikipedia": "https://en.wikipedia.org/wiki/Moussa_Diaby",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/christian-panucci/profil/spieler/5940",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Panucci",
+    "wikipedia_ar": "كرستيان بانوتشي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/douglas-luiz/profil/spieler/447661",
-    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Luiz",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/alessandro-florenzi/profil/spieler/130365",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessandro_Florenzi",
+    "wikipedia_ar": "أليساندرو فلورينزي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/jarrod-bowen/profil/spieler/314875",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jarrod_Bowen",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/stephan-lichtsteiner/profil/spieler/2865",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephan_Lichtsteiner",
+    "wikipedia_ar": "ستيفان ليشتستاينر"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/james-ward-prowse/profil/spieler/181579",
-    "wikipedia": "https://en.wikipedia.org/wiki/James_Ward-Prowse",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/alex-sandro/profil/spieler/79960",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alex_Sandro",
+    "wikipedia_ar": "أليكس ساندرو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/lucas-paqueta/profil/spieler/444523",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lucas_Paquet%C3%A1",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/stefan-de-vrij/profil/spieler/111196",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stefan_de_Vrij",
+    "wikipedia_ar": "ستيفان دي فري"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/kaoru-mitoma/profil/spieler/504849",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kaoru_Mitoma",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/milan-skriniar/profil/spieler/204069",
+    "wikipedia": "https://en.wikipedia.org/wiki/Milan_%C5%A0kriniar",
+    "wikipedia_ar": "ميلان سكرينيار"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/lewis-dunk/profil/spieler/148153",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Dunk",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/kalidou-koulibaly/profil/spieler/93128",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kalidou_Koulibaly",
+    "wikipedia_ar": "خاليدو كوليبالى"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/eberechi-eze/profil/spieler/479999",
-    "wikipedia": "https://en.wikipedia.org/wiki/Eberechi_Eze",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/fikayo-tomori/profil/spieler/303254",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fikayo_Tomori",
+    "wikipedia_ar": "فيكايو توموري"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/michael-olise/profil/spieler/566723",
-    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Olise",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/theo-hernandez/profil/spieler/339808",
+    "wikipedia": "https://en.wikipedia.org/wiki/Th%C3%A9o_Hernandez",
+    "wikipedia_ar": "تيو هرنانديز"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/marc-guehi/profil/spieler/392757",
-    "wikipedia": "https://en.wikipedia.org/wiki/Marc_Gu%C3%A9hi",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/achraf-hakimi/profil/spieler/398073",
+    "wikipedia": "https://en.wikipedia.org/wiki/Achraf_Hakimi",
+    "wikipedia_ar": "أشرف حكيمي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/ivan-toney/profil/spieler/251664",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ivan_Toney",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/giovanni-di-lorenzo/profil/spieler/169880",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Di_Lorenzo",
+    "wikipedia_ar": "جيوفاني دي لورينزو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/joao-palhinha/profil/spieler/257455",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Palhinha",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/elseid-hysaj/profil/spieler/200056",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elseid_Hysaj",
+    "wikipedia_ar": "السيد هيساج"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/morgan-gibbs-white/profil/spieler/429014",
-    "wikipedia": "https://en.wikipedia.org/wiki/Morgan_Gibbs-White",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/andrea-ranocchia/profil/spieler/44327",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrea_Ranocchia",
+    "wikipedia_ar": "أندريا رانوكيا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/dominic-solanke/profil/spieler/258889",
-    "wikipedia": "https://en.wikipedia.org/wiki/Dominic_Solanke",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/franck-kessie/profil/spieler/294808",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franck_Kessi%C3%A9",
+    "wikipedia_ar": "فرانك كيسي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/james-tarkowski/profil/spieler/173504",
-    "wikipedia": "https://en.wikipedia.org/wiki/James_Tarkowski",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/andrea-pirlo/profil/spieler/5817",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrea_Pirlo",
+    "wikipedia_ar": "أندريا بيرلو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/pedro-neto/profil/spieler/487465",
-    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Neto",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/gennaro-gattuso/profil/spieler/5813",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gennaro_Gattuso",
+    "wikipedia_ar": "جنارو غاتوزو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/matheus-cunha/profil/spieler/517894",
-    "wikipedia": "https://en.wikipedia.org/wiki/Matheus_Cunha",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/clarence-seedorf/profil/spieler/4168",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clarence_Seedorf",
+    "wikipedia_ar": "كلارنس سيدورف"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/sandro-tonali/profil/spieler/397033",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sandro_Tonali",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/kaka/profil/spieler/3366",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kak%C3%A1",
+    "wikipedia_ar": "كاكا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/pervis-estupinan/profil/spieler/349599",
-    "wikipedia": "https://en.wikipedia.org/wiki/Pervis_Estupi%C3%B1%C3%A1n",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/wesley-sneijder/profil/spieler/4673",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wesley_Sneijder",
+    "wikipedia_ar": "ويسلي سنايدر"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/alejandro-balde/profil/spieler/636688",
-    "wikipedia": "https://en.wikipedia.org/wiki/Alejandro_Balde",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/esteban-cambiasso/profil/spieler/7520",
+    "wikipedia": "https://en.wikipedia.org/wiki/Esteban_Cambiasso",
+    "wikipedia_ar": "إستيبان كامبياسو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/aaron-ramsdale/profil/spieler/427568",
-    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Ramsdale",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/dejan-stankovic/profil/spieler/3428",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dejan_Stankovi%C4%87",
+    "wikipedia_ar": "ديان ستانكوفيتش"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/alexis-sanchez/profil/spieler/40433",
-    "wikipedia": "https://en.wikipedia.org/wiki/Alexis_S%C3%A1nchez",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/arturo-vidal/profil/spieler/37666",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arturo_Vidal",
+    "wikipedia_ar": "أرتورو فيدال"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/claudio-marchisio/profil/spieler/44716",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Marchisio",
+    "wikipedia_ar": "كلاوديو ماركيزيو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/radja-nainggolan/profil/spieler/41982",
+    "wikipedia": "https://en.wikipedia.org/wiki/Radja_Nainggolan",
+    "wikipedia_ar": "راجا ناينغولان"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/daniele-de-rossi/profil/spieler/5947",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniele_De_Rossi",
+    "wikipedia_ar": "دانييلي دي روسي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/simone-perrotta/profil/spieler/5922",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simone_Perrotta",
+    "wikipedia_ar": "سيموني بيروتا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/marek-hamsik/profil/spieler/38593",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marek_Ham%C5%A1%C3%ADk",
+    "wikipedia_ar": "ماريك هامشيك"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/piotr-zielinski/profil/spieler/181136",
+    "wikipedia": "https://en.wikipedia.org/wiki/Piotr_Zieli%C5%84ski",
+    "wikipedia_ar": "بيوتر زيلينسكي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/allan/profil/spieler/126422",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allan_(footballer,_born_1991)",
+    "wikipedia_ar": "آلان"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/sergej-milinkovic-savic/profil/spieler/266302",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergej_Milinkovi%C4%87-Savi%C4%87",
+    "wikipedia_ar": "سيرغي ميلينكوفيتش-سافيتش"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/luis-alberto/profil/spieler/128220",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luis_Alberto_(footballer,_born_1992)",
+    "wikipedia_ar": "لويس ألبرتو روميرو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/lucas-leiva/profil/spieler/41414",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucas_Leiva",
+    "wikipedia_ar": "لوكاس ليفا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/marcelo-brozovic/profil/spieler/156617",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcelo_Brozovi%C4%87",
+    "wikipedia_ar": "مارسيلو بروزوفيتش"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/ivan-perisic/profil/spieler/42460",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivan_Peri%C5%A1i%C4%87",
+    "wikipedia_ar": "إيفان بيريشيتش"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/hakan-calhanoglu/profil/spieler/126414",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hakan_%C3%87alhano%C4%9Flu",
+    "wikipedia_ar": "هاكان تشالهان اوجلو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/nicolo-barella/profil/spieler/255942",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicol%C3%B2_Barella",
+    "wikipedia_ar": "نيكولو باريلا"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/manuel-locatelli/profil/spieler/265088",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Locatelli",
+    "wikipedia_ar": "مانويل لوكاتيلي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/ismael-bennacer/profil/spieler/351816",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isma%C3%ABl_Bennacer",
+    "wikipedia_ar": "اسماعيل بن ناصر"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/rade-krunic/profil/spieler/259953",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rade_Kruni%C4%87",
+    "wikipedia_ar": "رادي كرونيتش"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/zlatan-ibrahimovic/profil/spieler/3455",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zlatan_Ibrahimovi%C4%87",
+    "wikipedia_ar": "زلاتان إبراهيموفيتش"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/francesco-totti/profil/spieler/5958",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Totti",
+    "wikipedia_ar": "فرانشيسكو توتي"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/adriano/profil/spieler/5876",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adriano_(footballer,_born_February_1982)",
+    "wikipedia_ar": "أدريانو ليت ريبيرو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/diego-milito/profil/spieler/22202",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diego_Milito",
+    "wikipedia_ar": "دييغو ميليتو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/samuel-etoo/profil/spieler/4257",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Eto%27o",
+    "wikipedia_ar": "صامويل ايتو"
+  },
+  {
+    "transfermarkt": "https://www.transfermarkt.com/david-trezeguet/profil/spieler/4146",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Trezeguet",
+    "wikipedia_ar": "ديفيد تريزيغيه"
   },
   {
     "transfermarkt": "https://www.transfermarkt.com/alvaro-morata/profil/spieler/128223",
     "wikipedia": "https://en.wikipedia.org/wiki/%C3%81lvaro_Morata",
-    "wikipedia_ar": ""
+    "wikipedia_ar": "ألفارو موراتا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/peter-crouch/profil/spieler/4072",
-    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Crouch",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/antonio-di-natale/profil/spieler/6031",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Di_Natale",
+    "wikipedia_ar": "انطونيو دي ناتالي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/kevin-phillips/profil/spieler/3131",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Phillips_(English_footballer)",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/luca-toni/profil/spieler/5980",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luca_Toni",
+    "wikipedia_ar": "لوكا توني"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/olivier-giroud/profil/spieler/82442",
-    "wikipedia": "https://en.wikipedia.org/wiki/Olivier_Giroud",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/alberto-gilardino/profil/spieler/5878",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alberto_Gilardino",
+    "wikipedia_ar": "ألبيرتو جيلاردينو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/mikel-arteta/profil/spieler/7451",
-    "wikipedia": "https://en.wikipedia.org/wiki/Mikel_Arteta",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/fabio-quagliarella/profil/spieler/22328",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabio_Quagliarella",
+    "wikipedia_ar": "فابيو كوالياريلا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/clint-dempsey/profil/spieler/27577",
-    "wikipedia": "https://en.wikipedia.org/wiki/Clint_Dempsey",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/marco-borriello/profil/spieler/5825",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marco_Borriello",
+    "wikipedia_ar": "ماركو بورييلو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/yakubu-aiyegbeni/profil/spieler/8559",
-    "wikipedia": "https://en.wikipedia.org/wiki/Yakubu_(footballer)",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/mirko-vucinic/profil/spieler/6448",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mirko_Vu%C4%8Dini%C4%87",
+    "wikipedia_ar": "ميركو فوسينيتش"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/branislav-ivanovic/profil/spieler/36827",
-    "wikipedia": "https://en.wikipedia.org/wiki/Branislav_Ivanovi%C4%87",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/antonio-cassano/profil/spieler/5962",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Cassano",
+    "wikipedia_ar": "أنطونيو كاسانو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/demba-ba/profil/spieler/40205",
-    "wikipedia": "https://en.wikipedia.org/wiki/Demba_Ba",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/edinson-cavani/profil/spieler/48280",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edinson_Cavani",
+    "wikipedia_ar": "إدينسون كافاني"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/michu/profil/spieler/70789",
-    "wikipedia": "https://en.wikipedia.org/wiki/Michu",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/ezequiel-lavezzi/profil/spieler/50570",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezequiel_Lavezzi",
+    "wikipedia_ar": "إزيكييل لافيتزي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/eidur-gudjohnsen/profil/spieler/3176",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ei%C3%B0ur_Gu%C3%B0johnsen",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/gonzalo-higuain/profil/spieler/39153",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gonzalo_Higua%C3%ADn",
+    "wikipedia_ar": "غونزالو هيغواين"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/damien-duff/profil/spieler/3259",
-    "wikipedia": "https://en.wikipedia.org/wiki/Damien_Duff",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/paulo-dybala/profil/spieler/206050",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paulo_Dybala",
+    "wikipedia_ar": "باولو ديبالا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/morten-gamst-pedersen/profil/spieler/22741",
-    "wikipedia": "https://en.wikipedia.org/wiki/Morten_Gamst_Pedersen",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/mauro-icardi/profil/spieler/68863",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mauro_Icardi",
+    "wikipedia_ar": "ماورو إيكاردي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/tugay-kerimoglu/profil/spieler/3703",
-    "wikipedia": "https://en.wikipedia.org/wiki/Tugay_Kerimo%C4%9Flu",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/ciro-immobile/profil/spieler/105521",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ciro_Immobile",
+    "wikipedia_ar": "تشيرو إيموبيلي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/laurent-koscielny/profil/spieler/76277",
-    "wikipedia": "https://en.wikipedia.org/wiki/Laurent_Koscielny",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/dries-mertens/profil/spieler/56416",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dries_Mertens",
+    "wikipedia_ar": "دريس ميرتنز"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/antonio-valencia/profil/spieler/33544",
-    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Valencia",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/lorenzo-insigne/profil/spieler/133964",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorenzo_Insigne",
+    "wikipedia_ar": "لورينزو إنسيني"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/tim-howard/profil/spieler/4267",
-    "wikipedia": "https://en.wikipedia.org/wiki/Tim_Howard",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/jose-callejon/profil/spieler/61253",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Callej%C3%B3n",
+    "wikipedia_ar": "خوسيه كاييخون"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/roque-santa-cruz/profil/spieler/215",
-    "wikipedia": "https://en.wikipedia.org/wiki/Roque_Santa_Cruz",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/papu-gomez/profil/spieler/20005",
+    "wikipedia": "https://en.wikipedia.org/wiki/Papu_G%C3%B3mez",
+    "wikipedia_ar": "بابو غوميز"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/papiss-demba-cisse/profil/spieler/33952",
-    "wikipedia": "https://en.wikipedia.org/wiki/Papiss_Ciss%C3%A9",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/duvan-zapata/profil/spieler/73794",
+    "wikipedia": "https://en.wikipedia.org/wiki/Duv%C3%A1n_Zapata",
+    "wikipedia_ar": "دوفان زاباتا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/benni-mccarthy/profil/spieler/3091",
-    "wikipedia": "https://en.wikipedia.org/wiki/Benni_McCarthy",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/khvicha-kvaratskhelia/profil/spieler/502670",
+    "wikipedia": "https://en.wikipedia.org/wiki/Khvicha_Kvaratskhelia",
+    "wikipedia_ar": "خفيشا كفاراتسخيليا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/stiliyan-petrov/profil/spieler/3252",
-    "wikipedia": "https://en.wikipedia.org/wiki/Stiliyan_Petrov",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/lautaro-martinez/profil/spieler/406625",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lautaro_Mart%C3%ADnez",
+    "wikipedia_ar": "لاوتارو مارتينيز"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/bryan-robson/profil/spieler/101382",
-    "wikipedia": "https://en.wikipedia.org/wiki/Bryan_Robson",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/romelu-lukaku/profil/spieler/96341",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romelu_Lukaku",
+    "wikipedia_ar": "روميلو لوكاكو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/john-barnes/profil/spieler/87436",
-    "wikipedia": "https://en.wikipedia.org/wiki/John_Barnes",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/victor-osimhen/profil/spieler/401923",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Osimhen",
+    "wikipedia_ar": "فيكتور أوسيمين"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/ian-rush/profil/spieler/145743",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ian_Rush",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/luis-muriel/profil/spieler/119228",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luis_Muriel",
+    "wikipedia_ar": "لويس مورييل"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/chris-waddle/profil/spieler/101385",
-    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Waddle",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/rafael-leao/profil/spieler/357164",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rafael_Le%C3%A3o",
+    "wikipedia_ar": "رفائيل لياو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/kenny-dalglish/profil/spieler/135269",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kenny_Dalglish",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/dusan-vlahovic/profil/spieler/357498",
+    "wikipedia": "https://en.wikipedia.org/wiki/Du%C5%A1an_Vlahovi%C4%87",
+    "wikipedia_ar": "دوشان فلاهوفيتش"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/stuart-pearce/profil/spieler/101317",
-    "wikipedia": "https://en.wikipedia.org/wiki/Stuart_Pearce",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/mateo-kovacic/profil/spieler/51471",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mateo_Kova%C4%8Di%C4%87",
+    "wikipedia_ar": "ماتيو كوفاتشيتش"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/neville-southall/profil/spieler/135910",
-    "wikipedia": "https://en.wikipedia.org/wiki/Neville_Southall",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/federico-chiesa/profil/spieler/341092",
+    "wikipedia": "https://en.wikipedia.org/wiki/Federico_Chiesa",
+    "wikipedia_ar": "فيديريكو كييزا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/gordon-strachan/profil/spieler/116156",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Strachan",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/alessandro-bastoni/profil/spieler/315853",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessandro_Bastoni",
+    "wikipedia_ar": "أليساندرو باستوني"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/vinnie-jones/profil/spieler/136042",
-    "wikipedia": "https://en.wikipedia.org/wiki/Vinnie_Jones",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/adrien-rabiot/profil/spieler/182913",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrien_Rabiot",
+    "wikipedia_ar": "أدريان رابيو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/peter-beardsley/profil/spieler/102030",
-    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Beardsley",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/federico-dimarco/profil/spieler/198116",
+    "wikipedia": "https://en.wikipedia.org/wiki/Federico_Dimarco",
+    "wikipedia_ar": "فيديريكو ديماركو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/nigel-winterburn/profil/spieler/3648",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nigel_Winterburn",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/lorenzo-pellegrini/profil/spieler/286297",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorenzo_Pellegrini",
+    "wikipedia_ar": "لورينزو بيليغريني"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/lee-dixon/profil/spieler/28240",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Dixon",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/marcus-thuram/profil/spieler/318528",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Thuram",
+    "wikipedia_ar": "ماركوس تورام"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/dion-dublin/profil/spieler/3763",
-    "wikipedia": "https://en.wikipedia.org/wiki/Dion_Dublin",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/stanislav-lobotka/profil/spieler/192735",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stanislav_Lobotka",
+    "wikipedia_ar": "ستانيسلاف لوبوتكا"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/chris-sutton/profil/spieler/7453",
-    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Sutton",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/davide-frattesi/profil/spieler/394300",
+    "wikipedia": "https://en.wikipedia.org/wiki/Davide_Frattesi",
+    "wikipedia_ar": "دافيد فراتيسي"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/tim-flowers/profil/spieler/4249",
-    "wikipedia": "https://en.wikipedia.org/wiki/Tim_Flowers",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/alex-meret/profil/spieler/240414",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alex_Meret",
+    "wikipedia_ar": "أليكس ميريت"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/harry-kewell/profil/spieler/3241",
-    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Kewell",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/alessandro-buongiorno/profil/spieler/386446",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessandro_Buongiorno",
+    "wikipedia_ar": "اليساندرو بونجيورنو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/gareth-southgate/profil/spieler/3744",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gareth_Southgate",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/moise-kean/profil/spieler/364135",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moise_Kean",
+    "wikipedia_ar": "مويس كين"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/philippe-albert/profil/spieler/27972",
-    "wikipedia": "https://en.wikipedia.org/wiki/Philippe_Albert",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/weston-mckennie/profil/spieler/332697",
+    "wikipedia": "https://en.wikipedia.org/wiki/Weston_McKennie",
+    "wikipedia_ar": "وستون مكيني"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/rob-lee/profil/spieler/14183",
-    "wikipedia": "https://en.wikipedia.org/wiki/Rob_Lee",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/kenan-yildiz/profil/spieler/845654",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenan_Y%C4%B1ld%C4%B1z",
+    "wikipedia_ar": "كنان يلدز"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/henning-berg/profil/spieler/3823",
-    "wikipedia": "https://en.wikipedia.org/wiki/Henning_Berg",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/merih-demiral/profil/spieler/340879",
+    "wikipedia": "https://en.wikipedia.org/wiki/Merih_Demiral",
+    "wikipedia_ar": "مريخ دميرال"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/jussi-jaaskelainen/profil/spieler/3692",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jussi_J%C3%A4%C3%A4skel%C3%A4inen",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/nicolo-zaniolo/profil/spieler/392085",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicol%C3%B2_Zaniolo",
+    "wikipedia_ar": "نيكولو زانيولو"
   },
   {
-    "transfermarkt": "https://www.transfermarkt.com/kevin-nolan/profil/spieler/3950",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Nolan",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/lee-bowyer/profil/spieler/3877",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Bowyer",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/kieron-dyer/profil/spieler/3118",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kieron_Dyer",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/steed-malbranque/profil/spieler/3569",
-    "wikipedia": "https://en.wikipedia.org/wiki/Steed_Malbranque",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/danny-mills/profil/spieler/3743",
-    "wikipedia": "https://en.wikipedia.org/wiki/Danny_Mills",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/ugo-ehiogu/profil/spieler/3247",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ugo_Ehiogu",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/ronny-johnsen/profil/spieler/3578",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ronny_Johnsen",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/hugo-lloris/profil/spieler/17965",
-    "wikipedia": "https://en.wikipedia.org/wiki/Hugo_Lloris",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/cesar-azpilicueta/profil/spieler/57500",
-    "wikipedia": "https://en.wikipedia.org/wiki/C%C3%A9sar_Azpilicueta",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/jan-vertonghen/profil/spieler/43250",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jan_Vertonghen",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/toby-alderweireld/profil/spieler/42710",
-    "wikipedia": "https://en.wikipedia.org/wiki/Toby_Alderweireld",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/mousa-dembele/profil/spieler/19368",
-    "wikipedia": "https://en.wikipedia.org/wiki/Mousa_Demb%C3%A9l%C3%A9_(Belgian_footballer)",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/aaron-ramsey/profil/spieler/50057",
-    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Ramsey",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/santi-cazorla/profil/spieler/15799",
-    "wikipedia": "https://en.wikipedia.org/wiki/Santi_Cazorla",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/gary-cahill/profil/spieler/27511",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Cahill",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/nemanja-matic/profil/spieler/74683",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nemanja_Mati%C4%87",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/juan-mata/profil/spieler/44068",
-    "wikipedia": "https://en.wikipedia.org/wiki/Juan_Mata",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/samir-nasri/profil/spieler/18935",
-    "wikipedia": "https://en.wikipedia.org/wiki/Samir_Nasri",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/gael-clichy/profil/spieler/7449",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ga%C3%ABl_Clichy",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/joleon-lescott/profil/spieler/4241",
-    "wikipedia": "https://en.wikipedia.org/wiki/Joleon_Lescott",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/martin-skrtel/profil/spieler/24180",
-    "wikipedia": "https://en.wikipedia.org/wiki/Martin_%C5%A0krtel",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/daniel-agger/profil/spieler/22832",
-    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Agger",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/wilfried-zaha/profil/spieler/145988",
-    "wikipedia": "https://en.wikipedia.org/wiki/Wilfried_Zaha",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/bacary-sagna/profil/spieler/26764",
-    "wikipedia": "https://en.wikipedia.org/wiki/Bacary_Sagna",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/per-mertesacker/profil/spieler/6710",
-    "wikipedia": "https://en.wikipedia.org/wiki/Per_Mertesacker",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/jorginho/profil/spieler/102017",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jorginho_(footballer,_born_December_1991)",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/youri-tielemans/profil/spieler/249565",
-    "wikipedia": "https://en.wikipedia.org/wiki/Youri_Tielemans",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/ruben-neves/profil/spieler/225161",
-    "wikipedia": "https://en.wikipedia.org/wiki/R%C3%BAben_Neves",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/joao-moutinho/profil/spieler/29364",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Moutinho",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/conor-coady/profil/spieler/128901",
-    "wikipedia": "https://en.wikipedia.org/wiki/Conor_Coady",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/jordan-pickford/profil/spieler/130164",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jordan_Pickford",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/pascal-gross/profil/spieler/82873",
-    "wikipedia": "https://en.wikipedia.org/wiki/Pascal_Gro%C3%9F",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/callum-wilson/profil/spieler/123682",
-    "wikipedia": "https://en.wikipedia.org/wiki/Callum_Wilson",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/danny-ings/profil/spieler/134294",
-    "wikipedia": "https://en.wikipedia.org/wiki/Danny_Ings",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/ben-mee/profil/spieler/74810",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Mee",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/harvey-barnes/profil/spieler/398065",
-    "wikipedia": "https://en.wikipedia.org/wiki/Harvey_Barnes",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/christian-pulisic/profil/spieler/315779",
-    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Pulisic",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/hakim-ziyech/profil/spieler/217111",
-    "wikipedia": "https://en.wikipedia.org/wiki/Hakim_Ziyech",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/pierre-emile-hojbjerg/profil/spieler/167799",
-    "wikipedia": "https://en.wikipedia.org/wiki/Pierre-Emile_H%C3%B8jbjerg",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/dominic-calvert-lewin/profil/spieler/306024",
-    "wikipedia": "https://en.wikipedia.org/wiki/Dominic_Calvert-Lewin",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/abdoulaye-doucoure/profil/spieler/127187",
-    "wikipedia": "https://en.wikipedia.org/wiki/Abdoulaye_Doucour%C3%A9",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/christian-eriksen/profil/spieler/69633",
-    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Eriksen",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/kieran-tierney/profil/spieler/300716",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kieran_Tierney",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/brennan-johnson/profil/spieler/470607",
-    "wikipedia": "https://en.wikipedia.org/wiki/Brennan_Johnson",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/eberechi-eze/profil/spieler/479999",
-    "wikipedia": "https://en.wikipedia.org/wiki/Eberechi_Eze",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/solly-march/profil/spieler/209212",
-    "wikipedia": "https://en.wikipedia.org/wiki/Solly_March",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/david-de-gea/profil/spieler/59377",
-    "wikipedia": "https://en.wikipedia.org/wiki/David_de_Gea",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/ilkay-gundogan/profil/spieler/53622",
-    "wikipedia": "https://en.wikipedia.org/wiki/%C4%B0lkay_G%C3%BCndo%C4%9Fan",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/george-best/profil/spieler/174986",
-    "wikipedia": "https://en.wikipedia.org/wiki/George_Best",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/sir-bobby-charlton/profil/spieler/174874",
-    "wikipedia": "https://en.wikipedia.org/wiki/Bobby_Charlton",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/paul-pogba/profil/spieler/122153",
-    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Pogba",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/marc-cucurella/profil/spieler/284857",
-    "wikipedia": "https://en.wikipedia.org/wiki/Marc_Cucurella",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/nathan-ake/profil/spieler/177476",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Ak%C3%A9",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/danny-welbeck/profil/spieler/67063",
-    "wikipedia": "https://en.wikipedia.org/wiki/Danny_Welbeck",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/emile-smith-rowe/profil/spieler/392765",
-    "wikipedia": "https://en.wikipedia.org/wiki/Emile_Smith_Rowe",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/jordan-henderson/profil/spieler/61651",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jordan_Henderson",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/nick-pope/profil/spieler/192080",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nick_Pope_(footballer)",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/tomas-soucek/profil/spieler/283628",
-    "wikipedia": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Sou%C4%8Dek",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/alphonse-areola/profil/spieler/120629",
-    "wikipedia": "https://en.wikipedia.org/wiki/Alphonse_Areola",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/adam-lallana/profil/spieler/43530",
-    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Lallana",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/bryan-mbeumo/profil/spieler/413039",
-    "wikipedia": "https://en.wikipedia.org/wiki/Bryan_Mbeumo",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/joel-veltman/profil/spieler/111195",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jo%C3%ABl_Veltman",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/joao-pedro/profil/spieler/626724",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Pedro_(footballer,_born_2001)",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/nicolas-jackson/profil/spieler/776890",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Jackson",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/manuel-akanji/profil/spieler/284730",
-    "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Akanji",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/pedro-porro/profil/spieler/553875",
-    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Porro",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/aymeric-laporte/profil/spieler/176553",
-    "wikipedia": "https://en.wikipedia.org/wiki/Aymeric_Laporte",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/mason-mount/profil/spieler/346483",
-    "wikipedia": "https://en.wikipedia.org/wiki/Mason_Mount",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/david-raya/profil/spieler/262749",
-    "wikipedia": "https://en.wikipedia.org/wiki/David_Raya",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/jadon-sancho/profil/spieler/401173",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jadon_Sancho",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/antony/profil/spieler/602105",
-    "wikipedia": "https://en.wikipedia.org/wiki/Antony_(footballer,_born_2000)",
-    "wikipedia_ar": ""
-  },
-  {
-    "transfermarkt": "https://www.transfermarkt.com/granit-xhaka/profil/spieler/111455",
-    "wikipedia": "https://en.wikipedia.org/wiki/Granit_Xhaka",
-    "wikipedia_ar": ""
+    "transfermarkt": "https://www.transfermarkt.com/francesco-acerbi/profil/spieler/131075",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Acerbi",
+    "wikipedia_ar": "فرانسيسكو أتشيربي"
   }
 ]
