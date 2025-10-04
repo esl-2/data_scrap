@@ -142,7 +142,7 @@ class PlayerCombinedSpider(scrapy.Spider):
             self.logger.error(f"خطأ في قراءة {self.LINKS_FILE}: {e}")
             return
 
-        for idx, pair in enumerate(pairs, start=1):
+        for idx, pair in enumerate(pairs, start=204):
             tm = pair.get("transfermarkt") or pair.get("transfermarkt_url")
             wk = pair.get("wikipedia") or pair.get("wikipedia_url")
             wk_ar = pair.get("wikipedia_ar") or pair.get("wikipedia_ar_url")
