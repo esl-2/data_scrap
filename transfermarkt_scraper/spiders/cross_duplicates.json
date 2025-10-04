@@ -1,0 +1,1665 @@
+[
+  {
+    "keys": [
+      "name::luis suarez"
+    ],
+    "occurrences": [
+      {
+        "file": "source",
+        "index": 15,
+        "player": {
+          "id": 16,
+          "transfermarkt_id": "172315",
+          "name": "Luis Suárez",
+          "name_ar": "لويس سواريز ميرامونتيس",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Luis_Su%C3%A1rez_Miramontes_1962.jpg/250px-Luis_Su%C3%A1rez_Miramontes_1962.jpg",
+          "transfermarkt_url": "https://www.transfermarkt.com/luis-suarez/profil/spieler/172315",
+          "wikipedia_url_provided": "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(footballer,_born_1935)",
+          "positions": [
+            "CM",
+            "AM",
+            "DM"
+          ],
+          "nationality": "Spain",
+          "retired": true,
+          "age": 90,
+          "goals": 158,
+          "assists": 26,
+          "trophies": [
+            {
+              "tournament": "Winner Ballon d'Or",
+              "years": [
+                1960
+              ]
+            },
+            {
+              "tournament": "European champion",
+              "years": [
+                1964
+              ]
+            },
+            {
+              "tournament": "European Champion Clubs' Cup winner",
+              "years": [
+                1965,
+                1964
+              ]
+            },
+            {
+              "tournament": "Spanish champion",
+              "years": [
+                1960,
+                1959
+              ]
+            },
+            {
+              "tournament": "Italian champion",
+              "years": [
+                1966,
+                1965,
+                1963
+              ]
+            },
+            {
+              "tournament": "Spanish cup winner",
+              "years": [
+                1959,
+                1957
+              ]
+            },
+            {
+              "tournament": "Inter-Cities Fairs Cup winner",
+              "years": [
+                1960,
+                1958
+              ]
+            },
+            {
+              "tournament": "Intercontinental Cup winner",
+              "years": [
+                1965,
+                1964
+              ]
+            }
+          ],
+          "career": [
+            {
+              "years": "1953 – 1954",
+              "team": "Deportivo La Coruña",
+              "apps": "17",
+              "goals": "(3)"
+            },
+            {
+              "years": "1954 – 1955",
+              "team": "España Industrial",
+              "apps": "21",
+              "goals": "(6)"
+            },
+            {
+              "years": "1955 – 1961",
+              "team": "Barcelona",
+              "apps": "122",
+              "goals": "(62)"
+            },
+            {
+              "years": "1961 – 1970",
+              "team": "Inter Milan",
+              "apps": "256",
+              "goals": "(42)"
+            },
+            {
+              "years": "1970 – 1973",
+              "team": "Sampdoria",
+              "apps": "63",
+              "goals": "(9)"
+            },
+            {
+              "years": "Total",
+              "team": "479",
+              "apps": "(122)"
+            }
+          ]
+        }
+      },
+      {
+        "file": "target",
+        "index": 24,
+        "player": {
+          "id": "25pp",
+          "transfermarkt_id": 44352,
+          "name": "Luis Suárez",
+          "name_ar": "لويس سواريز",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Luis_Su%C3%A1rez_NE_Revolution_Inter_Miami_7.9.25-053_%28cropped%29.jpg/250px-Luis_Su%C3%A1rez_NE_Revolution_Inter_Miami_7.9.25-053_%28cropped%29.jpg",
+          "transfermarkt_url": "https://www.transfermarkt.com/luis-suarez/profil/spieler/44352",
+          "wikipedia_url_provided": "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez",
+          "positions": [
+            "CF",
+            "RW",
+            "LW"
+          ],
+          "nationality": "Uruguay",
+          "retired": true,
+          "age": 38,
+          "goals": "-",
+          "assists": 3574,
+          "trophies": [
+            {
+              "tournament": "Golden Boot winner (Europe)",
+              "years": [
+                2016,
+                2014
+              ]
+            },
+            {
+              "tournament": "Footballer of the Year",
+              "years": [
+                2023,
+                2014,
+                2010
+              ]
+            },
+            {
+              "tournament": "Top goal scorer",
+              "years": [
+                2016,
+                2016,
+                2015,
+                2014,
+                2014,
+                2010,
+                2010
+              ]
+            },
+            {
+              "tournament": "Player of the Year",
+              "years": [
+                2024,
+                2014,
+                2010
+              ]
+            },
+            {
+              "tournament": "TM-Player of the season",
+              "years": [
+                2023
+              ]
+            },
+            {
+              "tournament": "Copa América winner",
+              "years": [
+                2011
+              ]
+            },
+            {
+              "tournament": "Champions League winner",
+              "years": [
+                2015
+              ]
+            },
+            {
+              "tournament": "Spanish champion",
+              "years": [
+                2021,
+                2019,
+                2018,
+                2016,
+                2015
+              ]
+            },
+            {
+              "tournament": "FIFA Club World Cup winner",
+              "years": [
+                2016
+              ]
+            },
+            {
+              "tournament": "Spanish cup winner",
+              "years": [
+                2018,
+                2017,
+                2016,
+                2015
+              ]
+            },
+            {
+              "tournament": "Spanish Super Cup winner",
+              "years": [
+                2019,
+                2017
+              ]
+            },
+            {
+              "tournament": "English League Cup winner",
+              "years": [
+                2012
+              ]
+            },
+            {
+              "tournament": "Dutch champion",
+              "years": [
+                2011
+              ]
+            },
+            {
+              "tournament": "Dutch Cup winner",
+              "years": [
+                2010
+              ]
+            },
+            {
+              "tournament": "Supporters' Shield Winner",
+              "years": [
+                2024
+              ]
+            },
+            {
+              "tournament": "Uruguayan champion",
+              "years": [
+                2022,
+                2006,
+                2005
+              ]
+            },
+            {
+              "tournament": "Campeão Gaúcho",
+              "years": [
+                2023
+              ]
+            }
+          ],
+          "career": [
+            {
+              "years": "2005 – 2006",
+              "team": "Nacional",
+              "apps": "27",
+              "goals": "(10)"
+            },
+            {
+              "years": "2006 – 2007",
+              "team": "Groningen",
+              "apps": "29",
+              "goals": "(10)"
+            },
+            {
+              "years": "2007 – 2011",
+              "team": "Ajax",
+              "apps": "110",
+              "goals": "(81)"
+            },
+            {
+              "years": "2011 – 2014",
+              "team": "Liverpool",
+              "apps": "110",
+              "goals": "(69)"
+            },
+            {
+              "years": "2014 – 2020",
+              "team": "Barcelona",
+              "apps": "191",
+              "goals": "(147)"
+            },
+            {
+              "years": "2020 – 2022",
+              "team": "Atlético Madrid",
+              "apps": "67",
+              "goals": "(32)"
+            },
+            {
+              "years": "2022 – 2023",
+              "team": "Nacional",
+              "apps": "14",
+              "goals": "(8)"
+            },
+            {
+              "years": "2023 – 2024",
+              "team": "Grêmio",
+              "apps": "45",
+              "goals": "(24)"
+            },
+            {
+              "years": "2024",
+              "team": "Inter Miami",
+              "apps": "52",
+              "goals": "(29)"
+            }
+          ]
+        }
+      }
+    ],
+    "total_count": 2
+  },
+  {
+    "keys": [
+      "tid::3177",
+      "name::gianfranco zola"
+    ],
+    "occurrences": [
+      {
+        "file": "source",
+        "index": 115,
+        "player": {
+          "id": 116,
+          "transfermarkt_id": "3177",
+          "name": "Gianfranco Zola",
+          "name_ar": "جانفرانكو زولا",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Zola_2018_%28cropped%29.jpg/250px-Zola_2018_%28cropped%29.jpg",
+          "transfermarkt_url": "https://www.transfermarkt.com/gianfranco-zola/profil/spieler/3177",
+          "wikipedia_url_provided": "https://en.wikipedia.org/wiki/Gianfranco_Zola",
+          "positions": [
+            "SS",
+            "AM",
+            "CF"
+          ],
+          "nationality": "Italy",
+          "retired": true,
+          "age": 59,
+          "goals": 222,
+          "assists": 122,
+          "trophies": [
+            {
+              "tournament": "Footballer of the Year",
+              "years": [
+                1997
+              ]
+            },
+            {
+              "tournament": "Player of the Year",
+              "years": [
+                2003,
+                1999
+              ]
+            },
+            {
+              "tournament": "Italian champion",
+              "years": [
+                1990
+              ]
+            },
+            {
+              "tournament": "Uefa Supercup winner",
+              "years": [
+                1999,
+                1994
+              ]
+            },
+            {
+              "tournament": "Uefa Cup winner",
+              "years": [
+                1995
+              ]
+            },
+            {
+              "tournament": "Europapokal der Pokalsieger Sieger",
+              "years": [
+                1998
+              ]
+            },
+            {
+              "tournament": "English FA Cup winner",
+              "years": [
+                2000,
+                1997
+              ]
+            },
+            {
+              "tournament": "English League Cup winner",
+              "years": [
+                1998
+              ]
+            },
+            {
+              "tournament": "English Super Cup winner",
+              "years": [
+                2001
+              ]
+            }
+          ],
+          "career": [
+            {
+              "years": "1984 – 1986",
+              "team": "Nuorese",
+              "apps": "31",
+              "goals": "(10)"
+            },
+            {
+              "years": "1986 – 1989",
+              "team": "Torres",
+              "apps": "88",
+              "goals": "(21)"
+            },
+            {
+              "years": "1989 – 1993",
+              "team": "Napoli",
+              "apps": "105",
+              "goals": "(32)"
+            },
+            {
+              "years": "1993 – 1996",
+              "team": "Parma",
+              "apps": "102",
+              "goals": "(49)"
+            },
+            {
+              "years": "1996 – 2003",
+              "team": "Chelsea",
+              "apps": "229",
+              "goals": "(59)"
+            },
+            {
+              "years": "2003 – 2005",
+              "team": "Cagliari",
+              "apps": "74",
+              "goals": "(22)"
+            },
+            {
+              "years": "Total",
+              "team": "629",
+              "apps": "(193)"
+            }
+          ]
+        }
+      },
+      {
+        "file": "target",
+        "index": 65,
+        "player": {
+          "id": "66pp",
+          "transfermarkt_id": 3177,
+          "name": "Gianfranco Zola",
+          "name_ar": "جانفرانكو زولا",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Zola_2018_%28cropped%29.jpg/250px-Zola_2018_%28cropped%29.jpg",
+          "transfermarkt_url": "https://www.transfermarkt.com/gianfranco-zola/profil/spieler/3177",
+          "wikipedia_url_provided": "https://en.wikipedia.org/wiki/Gianfranco_Zola",
+          "positions": [
+            "SS",
+            "AM",
+            "CF"
+          ],
+          "nationality": "Italy",
+          "retired": true,
+          "age": 59,
+          "goals": 222,
+          "assists": 122,
+          "trophies": [
+            {
+              "tournament": "Footballer of the Year",
+              "years": [
+                1997
+              ]
+            },
+            {
+              "tournament": "Player of the Year",
+              "years": [
+                2003,
+                1999
+              ]
+            },
+            {
+              "tournament": "Italian champion",
+              "years": [
+                1990
+              ]
+            },
+            {
+              "tournament": "Uefa Supercup winner",
+              "years": [
+                1999,
+                1994
+              ]
+            },
+            {
+              "tournament": "Uefa Cup winner",
+              "years": [
+                1995
+              ]
+            },
+            {
+              "tournament": "Europapokal der Pokalsieger Sieger",
+              "years": [
+                1998
+              ]
+            },
+            {
+              "tournament": "English FA Cup winner",
+              "years": [
+                2000,
+                1997
+              ]
+            },
+            {
+              "tournament": "English League Cup winner",
+              "years": [
+                1998
+              ]
+            },
+            {
+              "tournament": "English Super Cup winner",
+              "years": [
+                2001
+              ]
+            }
+          ],
+          "career": [
+            {
+              "years": "1984 – 1986",
+              "team": "Nuorese",
+              "apps": "31",
+              "goals": "(10)"
+            },
+            {
+              "years": "1986 – 1989",
+              "team": "Torres",
+              "apps": "88",
+              "goals": "(21)"
+            },
+            {
+              "years": "1989 – 1993",
+              "team": "Napoli",
+              "apps": "105",
+              "goals": "(32)"
+            },
+            {
+              "years": "1993 – 1996",
+              "team": "Parma",
+              "apps": "102",
+              "goals": "(49)"
+            },
+            {
+              "years": "1996 – 2003",
+              "team": "Chelsea",
+              "apps": "229",
+              "goals": "(59)"
+            },
+            {
+              "years": "2003 – 2005",
+              "team": "Cagliari",
+              "apps": "74",
+              "goals": "(22)"
+            },
+            {
+              "years": "Total",
+              "team": "629",
+              "apps": "(193)"
+            }
+          ]
+        }
+      }
+    ],
+    "total_count": 2
+  },
+  {
+    "keys": [
+      "tid::16980",
+      "name::jurgen klinsmann"
+    ],
+    "occurrences": [
+      {
+        "file": "source",
+        "index": 142,
+        "player": {
+          "id": 143,
+          "transfermarkt_id": "16980",
+          "name": "Jürgen Klinsmann",
+          "name_ar": "يورغن كلينسمان",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/J%C3%BCrgen_Klinsmann_14021113000678638425063004371092_64131.jpg/250px-J%C3%BCrgen_Klinsmann_14021113000678638425063004371092_64131.jpg",
+          "transfermarkt_url": "https://www.transfermarkt.com/jurgen-klinsmann/profil/spieler/16980",
+          "wikipedia_url_provided": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Klinsmann",
+          "positions": [
+            "CF"
+          ],
+          "nationality": "Germany",
+          "retired": true,
+          "age": 61,
+          "goals": 282,
+          "assists": 59,
+          "trophies": [
+            {
+              "tournament": "Footballer of the Year",
+              "years": [
+                1995,
+                1994,
+                1988
+              ]
+            },
+            {
+              "tournament": "Top goal scorer",
+              "years": [
+                1996,
+                1995,
+                1988
+              ]
+            },
+            {
+              "tournament": "World Cup winner",
+              "years": [
+                1990
+              ]
+            },
+            {
+              "tournament": "European champion",
+              "years": [
+                1996
+              ]
+            },
+            {
+              "tournament": "German Champion",
+              "years": [
+                1997
+              ]
+            },
+            {
+              "tournament": "Uefa Cup winner",
+              "years": [
+                1996,
+                1991
+              ]
+            },
+            {
+              "tournament": "Third place at the Olympic Games",
+              "years": [
+                1988
+              ]
+            }
+          ],
+          "career": [
+            {
+              "years": "1981 – 1984",
+              "team": "Stuttgarter Kickers",
+              "apps": "61",
+              "goals": "(22)"
+            },
+            {
+              "years": "1984 – 1989",
+              "team": "VfB Stuttgart",
+              "apps": "156",
+              "goals": "(79)"
+            },
+            {
+              "years": "1989 – 1992",
+              "team": "Inter Milan",
+              "apps": "95",
+              "goals": "(34)"
+            },
+            {
+              "years": "1992 – 1994",
+              "team": "Monaco",
+              "apps": "65",
+              "goals": "(29)"
+            },
+            {
+              "years": "1994 – 1995",
+              "team": "Tottenham Hotspur",
+              "apps": "41",
+              "goals": "(20)"
+            },
+            {
+              "years": "1995 – 1997",
+              "team": "Bayern Munich",
+              "apps": "65",
+              "goals": "(31)"
+            },
+            {
+              "years": "1997 – 1998",
+              "team": "Sampdoria",
+              "apps": "8",
+              "goals": "(2)"
+            },
+            {
+              "years": "1997 – 1998",
+              "team": "Tottenham Hotspur",
+              "apps": "Tottenham Hotspur",
+              "goals": "(loan)"
+            },
+            {
+              "years": "2003",
+              "team": "Orange County Blue Star",
+              "apps": "8",
+              "goals": "(5)"
+            },
+            {
+              "years": "Total",
+              "team": "514",
+              "apps": "(231)"
+            }
+          ]
+        }
+      },
+      {
+        "file": "target",
+        "index": 111,
+        "player": {
+          "id": "112pp",
+          "transfermarkt_id": 16980,
+          "name": "Jürgen Klinsmann",
+          "name_ar": "يورغن كلينسمان",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/J%C3%BCrgen_Klinsmann_14021113000678638425063004371092_64131.jpg/250px-J%C3%BCrgen_Klinsmann_14021113000678638425063004371092_64131.jpg",
+          "transfermarkt_url": "https://www.transfermarkt.com/jurgen-klinsmann/profil/spieler/16980",
+          "wikipedia_url_provided": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Klinsmann",
+          "positions": [
+            "CF"
+          ],
+          "nationality": "Germany",
+          "retired": true,
+          "age": 61,
+          "goals": 282,
+          "assists": 59,
+          "trophies": [
+            {
+              "tournament": "Footballer of the Year",
+              "years": [
+                1995,
+                1994,
+                1988
+              ]
+            },
+            {
+              "tournament": "Top goal scorer",
+              "years": [
+                1996,
+                1995,
+                1988
+              ]
+            },
+            {
+              "tournament": "World Cup winner",
+              "years": [
+                1990
+              ]
+            },
+            {
+              "tournament": "European champion",
+              "years": [
+                1996
+              ]
+            },
+            {
+              "tournament": "German Champion",
+              "years": [
+                1997
+              ]
+            },
+            {
+              "tournament": "Uefa Cup winner",
+              "years": [
+                1996,
+                1991
+              ]
+            },
+            {
+              "tournament": "Third place at the Olympic Games",
+              "years": [
+                1988
+              ]
+            }
+          ],
+          "career": [
+            {
+              "years": "1981 – 1984",
+              "team": "Stuttgarter Kickers",
+              "apps": "61",
+              "goals": "(22)"
+            },
+            {
+              "years": "1984 – 1989",
+              "team": "VfB Stuttgart",
+              "apps": "156",
+              "goals": "(79)"
+            },
+            {
+              "years": "1989 – 1992",
+              "team": "Inter Milan",
+              "apps": "95",
+              "goals": "(34)"
+            },
+            {
+              "years": "1992 – 1994",
+              "team": "Monaco",
+              "apps": "65",
+              "goals": "(29)"
+            },
+            {
+              "years": "1994 – 1995",
+              "team": "Tottenham Hotspur",
+              "apps": "41",
+              "goals": "(20)"
+            },
+            {
+              "years": "1995 – 1997",
+              "team": "Bayern Munich",
+              "apps": "65",
+              "goals": "(31)"
+            },
+            {
+              "years": "1997 – 1998",
+              "team": "Sampdoria",
+              "apps": "8",
+              "goals": "(2)"
+            },
+            {
+              "years": "1997 – 1998",
+              "team": "Tottenham Hotspur",
+              "apps": "Tottenham Hotspur",
+              "goals": "(loan)"
+            },
+            {
+              "years": "2003",
+              "team": "Orange County Blue Star",
+              "apps": "8",
+              "goals": "(5)"
+            },
+            {
+              "years": "Total",
+              "team": "514",
+              "apps": "(231)"
+            }
+          ]
+        }
+      }
+    ],
+    "total_count": 2
+  },
+  {
+    "keys": [
+      "tid::29241",
+      "name::thiago silva"
+    ],
+    "occurrences": [
+      {
+        "file": "source",
+        "index": 190,
+        "player": {
+          "id": 191,
+          "transfermarkt_id": "29241",
+          "name": "Thiago Silva",
+          "name_ar": "تياغو سيلفا",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Thiago_Silva_850_1582.jpg/250px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Thiago_Silva_850_1582.jpg",
+          "transfermarkt_url": "https://www.transfermarkt.com/thiago-silva/profil/spieler/29241",
+          "wikipedia_url_provided": "https://en.wikipedia.org/wiki/Thiago_Silva",
+          "positions": [
+            "CB"
+          ],
+          "nationality": "Brazil",
+          "retired": false,
+          "age": 41,
+          "goals": 2813,
+          "assists": 6501000,
+          "trophies": [
+            {
+              "tournament": "Copa América winner",
+              "years": [
+                2019
+              ]
+            },
+            {
+              "tournament": "Champions League winner",
+              "years": [
+                2021
+              ]
+            },
+            {
+              "tournament": "Italian champion",
+              "years": [
+                2011
+              ]
+            },
+            {
+              "tournament": "French champion",
+              "years": [
+                2020,
+                2019,
+                2018,
+                2016,
+                2015,
+                2014,
+                2013
+              ]
+            },
+            {
+              "tournament": "Uefa Supercup winner",
+              "years": [
+                2022
+              ]
+            },
+            {
+              "tournament": "FIFA Club World Cup winner",
+              "years": [
+                2022
+              ]
+            },
+            {
+              "tournament": "French cup winner",
+              "years": [
+                2020,
+                2018,
+                2017,
+                2016,
+                2015
+              ]
+            },
+            {
+              "tournament": "French league cup winner",
+              "years": [
+                2020,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014
+              ]
+            },
+            {
+              "tournament": "Italian Super Cup winner",
+              "years": [
+                2012
+              ]
+            },
+            {
+              "tournament": "Brazilian cup winner",
+              "years": [
+                2007
+              ]
+            },
+            {
+              "tournament": "Confederations Cup winner",
+              "years": [
+                2013
+              ]
+            },
+            {
+              "tournament": "French Super Cup winner",
+              "years": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014
+              ]
+            },
+            {
+              "tournament": "Second place at the Olympic Games",
+              "years": [
+                2012
+              ]
+            },
+            {
+              "tournament": "Third place at the Olympic Games",
+              "years": [
+                2008
+              ]
+            }
+          ],
+          "career": [
+            {
+              "years": "2002 – 2003",
+              "team": "RS Futebol",
+              "apps": "25",
+              "goals": "(2)"
+            },
+            {
+              "years": "2004",
+              "team": "Juventude",
+              "apps": "35",
+              "goals": "(3)"
+            },
+            {
+              "years": "2004 – 2005",
+              "team": "Porto B",
+              "apps": "14",
+              "goals": "(0)"
+            },
+            {
+              "years": "2005 – 2006",
+              "team": "Dynamo Moscow",
+              "apps": "0",
+              "goals": "(0)"
+            },
+            {
+              "years": "2006",
+              "team": "Fluminense",
+              "apps": "Fluminense",
+              "goals": "(loan)"
+            },
+            {
+              "years": "2007 – 2009",
+              "team": "Fluminense",
+              "apps": "73",
+              "goals": "(9)"
+            },
+            {
+              "years": "2009 – 2012",
+              "team": "AC Milan",
+              "apps": "93",
+              "goals": "(5)"
+            },
+            {
+              "years": "2012 – 2020",
+              "team": "Paris Saint-Germain",
+              "apps": "204",
+              "goals": "(9)"
+            },
+            {
+              "years": "2020 – 2024",
+              "team": "Chelsea",
+              "apps": "113",
+              "goals": "(8)"
+            },
+            {
+              "years": "2024",
+              "team": "Fluminense",
+              "apps": "36",
+              "goals": "(1)"
+            }
+          ]
+        }
+      },
+      {
+        "file": "target",
+        "index": 146,
+        "player": {
+          "id": "147pp",
+          "transfermarkt_id": 29241,
+          "name": "Thiago Silva",
+          "name_ar": "تياغو سيلفا",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Thiago_Silva_850_1582.jpg/250px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Thiago_Silva_850_1582.jpg",
+          "transfermarkt_url": "https://www.transfermarkt.com/thiago-silva/profil/spieler/29241",
+          "wikipedia_url_provided": "https://en.wikipedia.org/wiki/Thiago_Silva",
+          "positions": [
+            "CB"
+          ],
+          "nationality": "Brazil",
+          "retired": false,
+          "age": 41,
+          "goals": 2813,
+          "assists": 6501000,
+          "trophies": [
+            {
+              "tournament": "Copa América winner",
+              "years": [
+                2019
+              ]
+            },
+            {
+              "tournament": "Champions League winner",
+              "years": [
+                2021
+              ]
+            },
+            {
+              "tournament": "Italian champion",
+              "years": [
+                2011
+              ]
+            },
+            {
+              "tournament": "French champion",
+              "years": [
+                2020,
+                2019,
+                2018,
+                2016,
+                2015,
+                2014,
+                2013
+              ]
+            },
+            {
+              "tournament": "Uefa Supercup winner",
+              "years": [
+                2022
+              ]
+            },
+            {
+              "tournament": "FIFA Club World Cup winner",
+              "years": [
+                2022
+              ]
+            },
+            {
+              "tournament": "French cup winner",
+              "years": [
+                2020,
+                2018,
+                2017,
+                2016,
+                2015
+              ]
+            },
+            {
+              "tournament": "French league cup winner",
+              "years": [
+                2020,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014
+              ]
+            },
+            {
+              "tournament": "Italian Super Cup winner",
+              "years": [
+                2012
+              ]
+            },
+            {
+              "tournament": "Brazilian cup winner",
+              "years": [
+                2007
+              ]
+            },
+            {
+              "tournament": "Confederations Cup winner",
+              "years": [
+                2013
+              ]
+            },
+            {
+              "tournament": "French Super Cup winner",
+              "years": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014
+              ]
+            },
+            {
+              "tournament": "Second place at the Olympic Games",
+              "years": [
+                2012
+              ]
+            },
+            {
+              "tournament": "Third place at the Olympic Games",
+              "years": [
+                2008
+              ]
+            }
+          ],
+          "career": [
+            {
+              "years": "2002 – 2003",
+              "team": "RS Futebol",
+              "apps": "25",
+              "goals": "(2)"
+            },
+            {
+              "years": "2004",
+              "team": "Juventude",
+              "apps": "35",
+              "goals": "(3)"
+            },
+            {
+              "years": "2004 – 2005",
+              "team": "Porto B",
+              "apps": "14",
+              "goals": "(0)"
+            },
+            {
+              "years": "2005 – 2006",
+              "team": "Dynamo Moscow",
+              "apps": "0",
+              "goals": "(0)"
+            },
+            {
+              "years": "2006",
+              "team": "Fluminense",
+              "apps": "Fluminense",
+              "goals": "(loan)"
+            },
+            {
+              "years": "2007 – 2009",
+              "team": "Fluminense",
+              "apps": "73",
+              "goals": "(9)"
+            },
+            {
+              "years": "2009 – 2012",
+              "team": "AC Milan",
+              "apps": "93",
+              "goals": "(5)"
+            },
+            {
+              "years": "2012 – 2020",
+              "team": "Paris Saint-Germain",
+              "apps": "204",
+              "goals": "(9)"
+            },
+            {
+              "years": "2020 – 2024",
+              "team": "Chelsea",
+              "apps": "113",
+              "goals": "(8)"
+            },
+            {
+              "years": "2024",
+              "team": "Fluminense",
+              "apps": "36",
+              "goals": "(1)"
+            }
+          ]
+        }
+      }
+    ],
+    "total_count": 2
+  },
+  {
+    "keys": [
+      "tid::128223",
+      "name::alvaro morata"
+    ],
+    "occurrences": [
+      {
+        "file": "source",
+        "index": 243,
+        "player": {
+          "id": 244,
+          "transfermarkt_id": "128223",
+          "name": "Álvaro Morata",
+          "name_ar": "ألفارو موراتا",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%C3%81lvaro_Morata_in_2025.jpg/250px-%C3%81lvaro_Morata_in_2025.jpg",
+          "transfermarkt_url": "https://www.transfermarkt.com/alvaro-morata/profil/spieler/128223",
+          "wikipedia_url_provided": "https://en.wikipedia.org/wiki/%C3%81lvaro_Morata",
+          "positions": [
+            "CF",
+            "LW",
+            "SS"
+          ],
+          "nationality": "Spain",
+          "retired": false,
+          "age": 32,
+          "goals": "-",
+          "assists": "-",
+          "trophies": [
+            {
+              "tournament": "Top goal scorer",
+              "years": [
+                2013,
+                2011
+              ]
+            },
+            {
+              "tournament": "European champion",
+              "years": [
+                2024
+              ]
+            },
+            {
+              "tournament": "Champions League winner",
+              "years": [
+                2017,
+                2014
+              ]
+            },
+            {
+              "tournament": "Spanish champion",
+              "years": [
+                2017,
+                2012
+              ]
+            },
+            {
+              "tournament": "Italian champion",
+              "years": [
+                2016,
+                2015
+              ]
+            },
+            {
+              "tournament": "Uefa Supercup winner",
+              "years": [
+                2017
+              ]
+            },
+            {
+              "tournament": "Europa League winner",
+              "years": [
+                2019
+              ]
+            },
+            {
+              "tournament": "Winner UEFA Nations League",
+              "years": [
+                2023
+              ]
+            },
+            {
+              "tournament": "English FA Cup winner",
+              "years": [
+                2018
+              ]
+            },
+            {
+              "tournament": "FIFA Club World Cup winner",
+              "years": [
+                2017
+              ]
+            },
+            {
+              "tournament": "Spanish cup winner",
+              "years": [
+                2014,
+                2011
+              ]
+            },
+            {
+              "tournament": "Italian cup winner",
+              "years": [
+                2021,
+                2016,
+                2015
+              ]
+            },
+            {
+              "tournament": "Italian Super Cup winner",
+              "years": [
+                2025,
+                2021
+              ]
+            },
+            {
+              "tournament": "Turkish champion",
+              "years": [
+                2025
+              ]
+            },
+            {
+              "tournament": "Turkish cup winner",
+              "years": [
+                2025
+              ]
+            },
+            {
+              "tournament": "European Under-21 champion",
+              "years": [
+                2013
+              ]
+            },
+            {
+              "tournament": "European Under-19 champion",
+              "years": [
+                2012,
+                2011
+              ]
+            }
+          ],
+          "career": [
+            {
+              "years": "2010 – 2013",
+              "team": "Real Madrid B",
+              "apps": "83",
+              "goals": "(45)"
+            },
+            {
+              "years": "2010 – 2014",
+              "team": "Real Madrid",
+              "apps": "37",
+              "goals": "(10)"
+            },
+            {
+              "years": "2014 – 2016",
+              "team": "Juventus",
+              "apps": "64",
+              "goals": "(15)"
+            },
+            {
+              "years": "2016 – 2017",
+              "team": "Real Madrid",
+              "apps": "26",
+              "goals": "(15)"
+            },
+            {
+              "years": "2017 – 2020",
+              "team": "Chelsea",
+              "apps": "47",
+              "goals": "(16)"
+            },
+            {
+              "years": "2019 – 2020",
+              "team": "Atlético Madrid",
+              "apps": "Atlético Madrid",
+              "goals": "(loan)"
+            },
+            {
+              "years": "2020 – 2024",
+              "team": "Atlético Madrid",
+              "apps": "68",
+              "goals": "(28)"
+            },
+            {
+              "years": "2020 – 2022",
+              "team": "Juventus",
+              "apps": "Juventus",
+              "goals": "(loan)"
+            },
+            {
+              "years": "2024",
+              "team": "AC Milan",
+              "apps": "16",
+              "goals": "(5)"
+            },
+            {
+              "years": "2025",
+              "team": "Galatasaray",
+              "apps": "Galatasaray",
+              "goals": "(loan)"
+            },
+            {
+              "years": "2025",
+              "team": "Como",
+              "apps": "Como",
+              "goals": "(loan)"
+            }
+          ]
+        }
+      },
+      {
+        "file": "target",
+        "index": 176,
+        "player": {
+          "id": "177pp",
+          "transfermarkt_id": 128223,
+          "name": "Álvaro Morata",
+          "name_ar": "ألفارو موراتا",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%C3%81lvaro_Morata_in_2025.jpg/250px-%C3%81lvaro_Morata_in_2025.jpg",
+          "transfermarkt_url": "https://www.transfermarkt.com/alvaro-morata/profil/spieler/128223",
+          "wikipedia_url_provided": "https://en.wikipedia.org/wiki/%C3%81lvaro_Morata",
+          "positions": [
+            "CF",
+            "LW",
+            "SS"
+          ],
+          "nationality": "Spain",
+          "retired": false,
+          "age": 32,
+          "goals": "-",
+          "assists": "-",
+          "trophies": [
+            {
+              "tournament": "Top goal scorer",
+              "years": [
+                2013,
+                2011
+              ]
+            },
+            {
+              "tournament": "European champion",
+              "years": [
+                2024
+              ]
+            },
+            {
+              "tournament": "Champions League winner",
+              "years": [
+                2017,
+                2014
+              ]
+            },
+            {
+              "tournament": "Spanish champion",
+              "years": [
+                2017,
+                2012
+              ]
+            },
+            {
+              "tournament": "Italian champion",
+              "years": [
+                2016,
+                2015
+              ]
+            },
+            {
+              "tournament": "Uefa Supercup winner",
+              "years": [
+                2017
+              ]
+            },
+            {
+              "tournament": "Europa League winner",
+              "years": [
+                2019
+              ]
+            },
+            {
+              "tournament": "Winner UEFA Nations League",
+              "years": [
+                2023
+              ]
+            },
+            {
+              "tournament": "English FA Cup winner",
+              "years": [
+                2018
+              ]
+            },
+            {
+              "tournament": "FIFA Club World Cup winner",
+              "years": [
+                2017
+              ]
+            },
+            {
+              "tournament": "Spanish cup winner",
+              "years": [
+                2014,
+                2011
+              ]
+            },
+            {
+              "tournament": "Italian cup winner",
+              "years": [
+                2021,
+                2016,
+                2015
+              ]
+            },
+            {
+              "tournament": "Italian Super Cup winner",
+              "years": [
+                2025,
+                2021
+              ]
+            },
+            {
+              "tournament": "Turkish champion",
+              "years": [
+                2025
+              ]
+            },
+            {
+              "tournament": "Turkish cup winner",
+              "years": [
+                2025
+              ]
+            },
+            {
+              "tournament": "European Under-21 champion",
+              "years": [
+                2013
+              ]
+            },
+            {
+              "tournament": "European Under-19 champion",
+              "years": [
+                2012,
+                2011
+              ]
+            }
+          ],
+          "career": [
+            {
+              "years": "2010 – 2013",
+              "team": "Real Madrid B",
+              "apps": "83",
+              "goals": "(45)"
+            },
+            {
+              "years": "2010 – 2014",
+              "team": "Real Madrid",
+              "apps": "37",
+              "goals": "(10)"
+            },
+            {
+              "years": "2014 – 2016",
+              "team": "Juventus",
+              "apps": "64",
+              "goals": "(15)"
+            },
+            {
+              "years": "2016 – 2017",
+              "team": "Real Madrid",
+              "apps": "26",
+              "goals": "(15)"
+            },
+            {
+              "years": "2017 – 2020",
+              "team": "Chelsea",
+              "apps": "47",
+              "goals": "(16)"
+            },
+            {
+              "years": "2019 – 2020",
+              "team": "Atlético Madrid",
+              "apps": "Atlético Madrid",
+              "goals": "(loan)"
+            },
+            {
+              "years": "2020 – 2024",
+              "team": "Atlético Madrid",
+              "apps": "68",
+              "goals": "(28)"
+            },
+            {
+              "years": "2020 – 2022",
+              "team": "Juventus",
+              "apps": "Juventus",
+              "goals": "(loan)"
+            },
+            {
+              "years": "2024",
+              "team": "AC Milan",
+              "apps": "16",
+              "goals": "(5)"
+            },
+            {
+              "years": "2025",
+              "team": "Galatasaray",
+              "apps": "Galatasaray",
+              "goals": "(loan)"
+            },
+            {
+              "years": "2025",
+              "team": "Como",
+              "apps": "Como",
+              "goals": "(loan)"
+            }
+          ]
+        }
+      }
+    ],
+    "total_count": 2
+  }
+]
